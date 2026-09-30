@@ -15,7 +15,7 @@ Run `python3 scripts/build.py` to rebuild `index.html`. The site uses static HTM
 
 ## Publishing
 
-GitHub Pages is configured to publish the `main` branch root. A GitHub Actions deployment workflow is also included for switching Pages to the GitHub Actions source later. Each commit to the selected source republishes the site.
+GitHub Pages publishes the `main` branch root through its native Pages workflow. Rebuild `index.html` after changing the data, then commit and push the updated files. Each commit to `main` republishes the site.
 
 ## Sources and dates
 
