@@ -1,0 +1,411 @@
+{
+  "name": "Vinoth Rajalingam",
+  "role": "AI Engineer & CCM Architect",
+  "location": "Plano, Texas",
+  "email": "vinoth.lingam333@gmail.com",
+  "github": "https://github.com/vinoth12940",
+  "linkedin": "https://www.linkedin.com/in/vinoth-rajalingam-67358048/",
+  "medium": "https://medium.com/@vinoth.lingam333",
+  "summary": "I build agentic AI platforms, retrieval systems, and enterprise document solutions. My work connects 13+ years of engineering and consulting with hands-on delivery across banking, insurance, and healthcare.",
+  "focus": "Architecting and supporting a governed agentic chat platform for a leading US bank, with Azure AI Search, Document Intelligence, and AKS-based orchestration.",
+  "skills": [
+    {
+      "category": "Languages",
+      "items": [
+        "Python",
+        "Java",
+        "TypeScript",
+        "JavaScript",
+        "GScript / GOSU",
+        "SQL",
+        "Swift",
+        "Kotlin"
+      ]
+    },
+    {
+      "category": "LLMs & providers",
+      "items": [
+        "Azure OpenAI",
+        "GPT-4o",
+        "GPT-5.4-mini",
+        "Anthropic Claude",
+        "Claude API",
+        "Google Gemini",
+        "DeepSeek",
+        "Groq",
+        "Hugging Face",
+        "AISuite",
+        "LM Studio",
+        "Local model inference",
+        "Cohere",
+        "AWS Bedrock",
+        "Vertex AI"
+      ]
+    },
+    {
+      "category": "Agent frameworks",
+      "items": [
+        "LangChain",
+        "LangGraph",
+        "CrewAI",
+        "LlamaIndex",
+        "Agno / Phidata",
+        "Model Context Protocol (MCP)",
+        "Google ADK",
+        "Hermes Agent",
+        "Claude Agent SDK"
+      ]
+    },
+    {
+      "category": "AI & retrieval",
+      "items": [
+        "Retrieval-Augmented Generation (RAG)",
+        "AI agents",
+        "Agentic workflows",
+        "Agent orchestration",
+        "Prompt engineering",
+        "Context engineering",
+        "Structured outputs",
+        "Guardrails",
+        "CLIP ViT-B/32",
+        "text-embedding-ada-002",
+        "SentenceTransformer",
+        "LlamaParse",
+        "Whisper STT",
+        "Edge TTS",
+        "Honcho reasoning memory",
+        "MLX",
+        "OpenAI Realtime",
+        "Tavily",
+        "PyTorch",
+        "Janus Pro",
+        "BAAI/bge-large-en-v1.5"
+      ]
+    },
+    {
+      "category": "Vector search & databases",
+      "items": [
+        "ChromaDB",
+        "Qdrant",
+        "pgvector",
+        "Azure AI Search",
+        "PostgreSQL",
+        "SQLite",
+        "MongoDB"
+      ]
+    },
+    {
+      "category": "Backend & APIs",
+      "items": [
+        "FastAPI",
+        "Flask",
+        "Spring Boot",
+        "Spring Core",
+        "Spring MVC",
+        "Hibernate",
+        "REST APIs",
+        "Java / J2EE",
+        "OAuth 1.0",
+        "HMAC-SHA1",
+        "Node.js",
+        "Pydantic",
+        "WebSocket"
+      ]
+    },
+    {
+      "category": "Frontend & interfaces",
+      "items": [
+        "React 19",
+        "Next.js 16",
+        "Angular 7",
+        "AngularJS",
+        "Streamlit",
+        "CustomTkinter",
+        "Vite",
+        "HTML",
+        "CSS",
+        "Tailwind CSS",
+        "Bootstrap",
+        "JSP",
+        "XSL-FO",
+        "SwiftUI",
+        "Recharts",
+        "Chainlit"
+      ]
+    },
+    {
+      "category": "Cloud & delivery",
+      "items": [
+        "AWS",
+        "Azure App Service",
+        "Azure Blob Storage",
+        "Azure Document Intelligence",
+        "Azure AI Foundry",
+        "Azure DevOps CI/CD",
+        "Docker",
+        "Azure Kubernetes Service (AKS)",
+        "GitLab",
+        "VPS hosting",
+        "JAMS Scheduler",
+        "Tailscale",
+        "WireGuard",
+        "Cloudflare Tunnel",
+        "iOS",
+        "macOS",
+        "WebRTC"
+      ]
+    },
+    {
+      "category": "Customer communications",
+      "items": [
+        "SmartCOMM",
+        "Advanced Template Designer",
+        "Data Modeler",
+        "SmartIQ",
+        "Thunderhead Now 5.0 / 6.1",
+        "Business Content Studio",
+        "Business Object Studio",
+        "Quadient Inspire Designer",
+        "Inspire Scaler",
+        "Inspire Content Manager (ICM)",
+        "Inspire Interactive",
+        "OpenText xPression",
+        "CCM transformation & migration",
+        "Multi-channel document generation",
+        "XML",
+        "Layouts & style sets",
+        "Shared content & assembly rules",
+        "Print / archive / email / HTML",
+        "Batch & real-time delivery",
+        "QR & Data Matrix barcodes",
+        "OMR",
+        "SMTP configuration",
+        "OnBase",
+        "Q-direct"
+      ]
+    },
+    {
+      "category": "Insurance platforms",
+      "items": [
+        "Guidewire PolicyCenter",
+        "Guidewire BillingCenter",
+        "Guidewire ClaimCenter",
+        "Guidewire Studio",
+        "Commercial property",
+        "Homeowners",
+        "Personal auto",
+        "Life & annuities",
+        "Long-term care"
+      ]
+    },
+    {
+      "category": "Engineering tools",
+      "items": [
+        "Git",
+        "Postman",
+        "Jira",
+        "Beyond Compare",
+        "Adobe Acrobat Pro",
+        "Tortoise SVN",
+        "ALM",
+        "FileZilla",
+        "Playwright",
+        "Linux administration",
+        "Jupyter",
+        "LangSmith"
+      ]
+    },
+    {
+      "category": "AI development tools",
+      "items": [
+        "Claude Code CLI",
+        "Cursor",
+        "GitHub Copilot",
+        "VS Code",
+        "Codex",
+        "Antigravity"
+      ]
+    },
+    {
+      "category": "Architecture & consulting",
+      "items": [
+        "Solution design",
+        "Platform integration",
+        "Requirements analysis",
+        "Agile / Scrum",
+        "RFP / RFI",
+        "Effort estimation",
+        "Stakeholder management",
+        "Workstream leadership",
+        "Release coordination",
+        "Risk analysis",
+        "Code review",
+        "Unit testing",
+        "System integration testing",
+        "QA / UAT",
+        "Production rollout & support",
+        "Knowledge transfer"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Cognizant",
+      "period": "Sep 2022 \u2014 Present",
+      "location": "Plano, Texas",
+      "role": "AI Engineer \u00b7 CCM Architect \u00b7 Solution Consultant",
+      "description": "Delivering enterprise AI and customer communications platforms across banking, insurance, and healthcare.",
+      "engagements": [
+        {
+          "title": "Governed agentic chat platform",
+          "period": "May 2026 \u2014 Present",
+          "description": "Architecture and platform support for a leading US bank. Integrating Azure AI Search and Document Intelligence, improving response accuracy, and validating agent workflows on AKS.",
+          "tags": [
+            "LangGraph",
+            "MCP",
+            "Azure AI Search",
+            "AKS"
+          ]
+        },
+        {
+          "title": "National Life Group \u00b7 CCM modernization",
+          "period": "Jul 2025 \u2014 Apr 2026",
+          "description": "Led the migration of legacy document platforms to SmartCOMM and modernized an application with Angular, Spring Boot, and Azure integrations for document delivery and archival.",
+          "tags": [
+            "SmartCOMM",
+            "Spring Boot",
+            "Angular",
+            "Azure"
+          ]
+        },
+        {
+          "title": "EmblemHealth \u00b7 Communications transformation",
+          "period": "Feb 2024 \u2014 Jun 2025",
+          "description": "Technical leadership for personalized member communications on Quadient Inspire, covering solution design, integration, migration, testing, and production delivery.",
+          "tags": [
+            "Quadient Inspire",
+            "Java",
+            "Technical leadership"
+          ]
+        },
+        {
+          "title": "Insurance document generation optimization",
+          "period": "Aug 2022 \u2014 Jan 2024",
+          "description": "Solution consulting across Guidewire and SmartCOMM. Led a rebranding delivery spanning more than 2,000 forms in three months.",
+          "tags": [
+            "Guidewire",
+            "SmartCOMM",
+            "2,000+ forms"
+          ]
+        }
+      ]
+    },
+    {
+      "company": "Cognizant",
+      "period": "May 2020 \u2014 Aug 2022",
+      "location": "India",
+      "role": "Tech Lead / Lead Developer",
+      "description": "Led SmartCOMM template migration and long-term care correspondence work, including data models, assembly rules, shared content, testing, and deployment support.",
+      "engagements": []
+    },
+    {
+      "company": "Capgemini",
+      "period": "Feb 2019 \u2014 Apr 2020",
+      "location": "India",
+      "role": "Lead Developer",
+      "description": "Built Guidewire components and SmartCOMM / Thunderhead templates for auto and homeowners insurance, from requirements and configuration through QA and deployment.",
+      "engagements": []
+    },
+    {
+      "company": "HTC Global Services",
+      "period": "Mar 2013 \u2014 Jan 2019",
+      "location": "India",
+      "role": "Developer",
+      "description": "Developed Thunderhead forms and correspondence systems, including data models, complex layouts, reusable content, multi-channel output, and integration / UAT support.",
+      "engagements": []
+    }
+  ],
+  "solutions": [
+    {
+      "title": "SmartCOMM MCP Deployment Assistant",
+      "description": "A natural-language assistant for exporting and importing CMS content across environments, with streamed responses and tool execution tracing.",
+      "tags": [
+        "LangGraph",
+        "MCP",
+        "Azure OpenAI",
+        "React",
+        "FastAPI"
+      ],
+      "category": "Agents"
+    },
+    {
+      "title": "GenAI Document Rationalizer",
+      "description": "A batch pipeline for finding document duplicates and similarity candidates, using extraction, embeddings, vector search, selective LLM analysis, and Excel / JSON reporting.",
+      "tags": [
+        "Azure Document Intelligence",
+        "ChromaDB",
+        "Python",
+        "LangChain"
+      ],
+      "category": "RAG & search"
+    },
+    {
+      "title": "Benefit Summary RAG",
+      "description": "Retrieval-based extraction and summarization of insurance benefits from complex PDFs, deployed on Azure App Service with a Flask interface and CI/CD.",
+      "tags": [
+        "RAG",
+        "Flask",
+        "Azure OpenAI",
+        "ChromaDB"
+      ],
+      "category": "RAG & search"
+    },
+    {
+      "title": "Vision RAG Claim Adjuster",
+      "description": "A multi-provider claims assistant combining image understanding, severity classification, similarity search, and automated SmartCOMM claim reports.",
+      "tags": [
+        "CLIP",
+        "Qdrant",
+        "Claude",
+        "Gemini",
+        "Flask"
+      ],
+      "category": "Vision & voice"
+    },
+    {
+      "title": "GenAITrans",
+      "description": "A domain-focused translation API for healthcare and insurance, with iterative validation and model selection across multiple LLM providers.",
+      "tags": [
+        "FastAPI",
+        "AISuite",
+        "Claude",
+        "GPT-4o",
+        "Gemini"
+      ],
+      "category": "Agents"
+    },
+    {
+      "title": "Intelligent Pipeline Monitoring",
+      "description": "An agent workflow for monitoring document pipelines, detecting errors, consulting a learning knowledge base, and reporting through a dashboard.",
+      "tags": [
+        "CrewAI",
+        "Azure OpenAI",
+        "Flask",
+        "SQLite"
+      ],
+      "category": "Agents"
+    },
+    {
+      "title": "CORAL Migration Tool",
+      "description": "Automates migration from OpenText xPression to SmartCOMM through extraction, rationalization, transformation, style preservation, and bulk verification.",
+      "tags": [
+        "SmartCOMM",
+        "OpenText xPression",
+        "Document migration"
+      ],
+      "category": "Enterprise"
+    }
+  ],
+  "education": "Bachelor of Engineering in Electronics & Communication Engineering \u00b7 Annai Therasa College of Engineering, Villupuram, Tamil Nadu",
+  "updated": "2026-09-30"
+}

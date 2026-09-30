@@ -1,0 +1,1508 @@
+[
+  {
+    "id": "claude-architect-professional",
+    "title": "Claude Certified Architect - Professional",
+    "issuer": "Anthropic",
+    "issued": "2026-09",
+    "expires": "2027-09",
+    "credentialId": "f1898e29-9f80-442e-b80d-17d6406c3d3b",
+    "credentialUrl": "https://www.credly.com/badges/f1898e29-9f80-442e-b80d-17d6406c3d3b",
+    "badgeImageUrl": "https://images.credly.com/images/7583afbc-4aab-4c7d-8af4-d9af72786ab3/linkedin_thumb_blob",
+    "category": "Anthropic",
+    "verificationStatus": "verified_public_badge_and_linkedin_dates",
+    "sources": [
+      {
+        "type": "provided_resume",
+        "path": "Resume_Vinoth_Rajalingam_Updated_080626.docx"
+      },
+      {
+        "type": "credly_badge",
+        "url": "https://www.credly.com/badges/f1898e29-9f80-442e-b80d-17d6406c3d3b",
+        "evidence": "Claude Certified Architect - Professional was issued by Anthropic to Vinoth Rajalingam."
+      },
+      {
+        "type": "authenticated_linkedin_certifications",
+        "url": "https://www.linkedin.com/in/vinoth-rajalingam-67358048/details/certifications/",
+        "evidence": "Exact Cognizant/Plano profile read in authenticated Chrome by the parent agent on September 30, 2026."
+      }
+    ],
+    "note": "Credly public badge metadata verifies the credential title, Anthropic issuer, recipient, and artwork. Issue and expiry months were read from the authenticated LinkedIn certification record.",
+    "url": "https://www.credly.com/badges/f1898e29-9f80-442e-b80d-17d6406c3d3b",
+    "image": "assets/badges/claude-architect-professional.png",
+    "kind": "Claude Certifications",
+    "link_label": "View credential",
+    "date": "Issued Sep 2026",
+    "display_note": "Expires Sep 2027"
+  },
+  {
+    "id": "claude-architect-foundations",
+    "title": "Claude Certified Architect - Foundations",
+    "issuer": "Anthropic",
+    "issued": "2026-09",
+    "expires": "2027-09",
+    "credentialId": "430c86c2-85d5-431a-9c22-a62c72a6ec52",
+    "credentialUrl": "https://www.credly.com/badges/430c86c2-85d5-431a-9c22-a62c72a6ec52",
+    "badgeImageUrl": "https://images.credly.com/images/f2040db3-3904-4240-8966-e87b1510bea0/linkedin_thumb_blob",
+    "category": "Anthropic",
+    "verificationStatus": "verified_public_badge_and_linkedin_dates",
+    "sources": [
+      {
+        "type": "provided_resume",
+        "path": "Resume_Vinoth_Rajalingam_Updated_080626.docx"
+      },
+      {
+        "type": "credly_badge",
+        "url": "https://www.credly.com/badges/430c86c2-85d5-431a-9c22-a62c72a6ec52",
+        "evidence": "Claude Certified Architect - Foundations was issued by Anthropic to Vinoth Rajalingam."
+      },
+      {
+        "type": "authenticated_linkedin_certifications",
+        "url": "https://www.linkedin.com/in/vinoth-rajalingam-67358048/details/certifications/",
+        "evidence": "Exact Cognizant/Plano profile read in authenticated Chrome by the parent agent on September 30, 2026."
+      }
+    ],
+    "note": "Credly public badge metadata verifies the credential title, Anthropic issuer, recipient, and artwork. Issue and expiry months were read from the authenticated LinkedIn certification record.",
+    "url": "https://www.credly.com/badges/430c86c2-85d5-431a-9c22-a62c72a6ec52",
+    "image": "assets/badges/claude-architect-foundations.png",
+    "kind": "Claude Certifications",
+    "link_label": "View credential",
+    "date": "Issued Sep 2026",
+    "display_note": "Expires Sep 2027"
+  },
+  {
+    "id": "claude-associate-foundations",
+    "title": "Claude Certified Associate - Foundations",
+    "issuer": "Anthropic",
+    "issued": "2026-09",
+    "expires": "2027-09",
+    "credentialId": "f6c1c504-9b19-46e8-8636-ab55d802a182",
+    "credentialUrl": "https://www.credly.com/badges/f6c1c504-9b19-46e8-8636-ab55d802a182",
+    "badgeImageUrl": "https://images.credly.com/images/a6387cbd-5ac1-4894-833a-da2cbc28587e/linkedin_thumb_blob",
+    "category": "Anthropic",
+    "verificationStatus": "verified_public_badge_and_linkedin_dates",
+    "sources": [
+      {
+        "type": "provided_resume",
+        "path": "Resume_Vinoth_Rajalingam_Updated_080626.docx"
+      },
+      {
+        "type": "credly_badge",
+        "url": "https://www.credly.com/badges/f6c1c504-9b19-46e8-8636-ab55d802a182",
+        "evidence": "Claude Certified Associate - Foundations was issued by Anthropic to Vinoth Rajalingam."
+      },
+      {
+        "type": "authenticated_linkedin_certifications",
+        "url": "https://www.linkedin.com/in/vinoth-rajalingam-67358048/details/certifications/",
+        "evidence": "Exact Cognizant/Plano profile read in authenticated Chrome by the parent agent on September 30, 2026."
+      }
+    ],
+    "note": "Credly public badge metadata verifies the credential title, Anthropic issuer, recipient, and artwork. Issue and expiry months were read from the authenticated LinkedIn certification record.",
+    "url": "https://www.credly.com/badges/f6c1c504-9b19-46e8-8636-ab55d802a182",
+    "image": "assets/badges/claude-associate-foundations.png",
+    "kind": "Claude Certifications",
+    "link_label": "View credential",
+    "date": "Issued Sep 2026",
+    "display_note": "Expires Sep 2027"
+  },
+  {
+    "id": "claude-developer-foundations",
+    "title": "Claude Certified Developer - Foundations",
+    "issuer": "Anthropic",
+    "issued": "2026-09",
+    "expires": "2027-09",
+    "credentialId": "a5a42d42-a754-4f5a-8d40-910fa5940c11",
+    "credentialUrl": "https://www.credly.com/badges/a5a42d42-a754-4f5a-8d40-910fa5940c11",
+    "badgeImageUrl": "https://images.credly.com/images/f101c6ac-8a2d-4220-b381-70e3e6c364e3/linkedin_thumb_blob",
+    "category": "Anthropic",
+    "verificationStatus": "verified_public_badge_and_linkedin_dates",
+    "sources": [
+      {
+        "type": "provided_resume",
+        "path": "Resume_Vinoth_Rajalingam_Updated_080626.docx"
+      },
+      {
+        "type": "credly_badge",
+        "url": "https://www.credly.com/badges/a5a42d42-a754-4f5a-8d40-910fa5940c11",
+        "evidence": "Claude Certified Developer - Foundations was issued by Anthropic to Vinoth Rajalingam."
+      },
+      {
+        "type": "authenticated_linkedin_certifications",
+        "url": "https://www.linkedin.com/in/vinoth-rajalingam-67358048/details/certifications/",
+        "evidence": "Exact Cognizant/Plano profile read in authenticated Chrome by the parent agent on September 30, 2026."
+      }
+    ],
+    "note": "Credly public badge metadata verifies the credential title, Anthropic issuer, recipient, and artwork. Issue and expiry months were read from the authenticated LinkedIn certification record.",
+    "url": "https://www.credly.com/badges/a5a42d42-a754-4f5a-8d40-910fa5940c11",
+    "image": "assets/badges/claude-developer-foundations.png",
+    "kind": "Claude Certifications",
+    "link_label": "View credential",
+    "date": "Issued Sep 2026",
+    "display_note": "Expires Sep 2027"
+  },
+  {
+    "id": "claude-api",
+    "title": "Building with the Claude API",
+    "issuer": "Anthropic Education",
+    "issued": "2026-05-11",
+    "expires": null,
+    "credentialId": "xwcfg3ypug6b",
+    "credentialUrl": "https://verify.skilljar.com/c/xwcfg3ypug6b",
+    "badgeImageUrl": null,
+    "category": "Anthropic",
+    "verificationStatus": "verified_public_certificate",
+    "sources": [
+      {
+        "type": "provided_resume",
+        "path": "Resume_Vinoth_Rajalingam_Updated_080626.docx"
+      },
+      {
+        "type": "skilljar_certificate",
+        "url": "https://verify.skilljar.com/c/xwcfg3ypug6b",
+        "evidence": "Vinoth Rajalingam; Building with the Claude API; completion 2026-05-11; offered by Anthropic Education"
+      }
+    ],
+    "note": "Public certificate verifies course completion; this is a course completion credential.",
+    "url": "https://verify.skilljar.com/c/xwcfg3ypug6b",
+    "image": null,
+    "kind": "Claude Course Completion",
+    "link_label": "View credential",
+    "date": "Issued May 2026",
+    "display_note": ""
+  },
+  {
+    "id": "claude-101",
+    "title": "Claude 101",
+    "issuer": "Anthropic Education",
+    "issued": "2026-03-17",
+    "expires": null,
+    "credentialId": "6qb53ieamnev",
+    "credentialUrl": "https://verify.skilljar.com/c/6qb53ieamnev",
+    "badgeImageUrl": null,
+    "category": "Anthropic",
+    "verificationStatus": "verified_public_certificate",
+    "sources": [
+      {
+        "type": "provided_resume",
+        "path": "Resume_Vinoth_Rajalingam_Updated_080626.docx"
+      },
+      {
+        "type": "skilljar_certificate",
+        "url": "https://verify.skilljar.com/c/6qb53ieamnev",
+        "evidence": "Vinoth Rajalingam; Claude 101; completion 2026-03-17; offered by Anthropic Education"
+      }
+    ],
+    "note": "Resume lists this course in 2025 and 2026. One card is retained with the verified 2026 completion date.",
+    "url": "https://verify.skilljar.com/c/6qb53ieamnev",
+    "image": null,
+    "kind": "Claude Course Completion",
+    "link_label": "View credential",
+    "date": "Issued Mar 2026",
+    "display_note": ""
+  },
+  {
+    "id": "claude-code",
+    "title": "Claude Code in Action",
+    "issuer": "Anthropic Education",
+    "issued": "2026-03-16",
+    "expires": null,
+    "credentialId": "gsn3435etqny",
+    "credentialUrl": "https://verify.skilljar.com/c/gsn3435etqny",
+    "badgeImageUrl": null,
+    "category": "Anthropic",
+    "verificationStatus": "verified_public_certificate",
+    "sources": [
+      {
+        "type": "provided_resume",
+        "path": "Resume_Vinoth_Rajalingam_Updated_080626.docx"
+      },
+      {
+        "type": "skilljar_certificate",
+        "url": "https://verify.skilljar.com/c/gsn3435etqny",
+        "evidence": "Vinoth Rajalingam; Claude Code in Action; completion 2026-03-16; offered by Anthropic Education"
+      }
+    ],
+    "note": "Resume lists this course in 2025 and 2026. One card is retained with the verified 2026 completion date.",
+    "url": "https://verify.skilljar.com/c/gsn3435etqny",
+    "image": null,
+    "kind": "Claude Course Completion",
+    "link_label": "View credential",
+    "date": "Issued Mar 2026",
+    "display_note": ""
+  },
+  {
+    "id": "cognizant-vibe-code",
+    "title": "Vibe Code Hackathon - Vibe Coded using Cursor",
+    "issuer": "Cognizant",
+    "issued": "2025-11",
+    "expires": null,
+    "credentialId": "cbf97f54-55dc-4e2d-8807-f4a162c6025e",
+    "credentialUrl": "https://www.credly.com/badges/cbf97f54-55dc-4e2d-8807-f4a162c6025e",
+    "badgeImageUrl": "https://images.credly.com/images/20d443e4-2080-4d0c-9858-7cb4cd1d686a/linkedin_thumb_blob",
+    "category": "Other",
+    "verificationStatus": "verified_public_badge_and_linkedin_dates",
+    "sources": [
+      {
+        "type": "authenticated_linkedin_certifications",
+        "url": "https://www.linkedin.com/in/vinoth-rajalingam-67358048/details/certifications/",
+        "evidence": "Exact Cognizant/Plano profile read in authenticated Chrome by the parent agent on September 30, 2026."
+      },
+      {
+        "type": "credly_badge",
+        "url": "https://www.credly.com/badges/cbf97f54-55dc-4e2d-8807-f4a162c6025e",
+        "evidence": "Vibe Code Hackathon - Vibe Coded using Cursor was issued by Cognizant to Vinoth Rajalingam."
+      }
+    ],
+    "note": "Hackathon achievement badge; public Credly metadata verifies issuer and recipient. Issue month is from authenticated LinkedIn.",
+    "url": "https://www.credly.com/badges/cbf97f54-55dc-4e2d-8807-f4a162c6025e",
+    "image": "assets/badges/cognizant-vibe-code.png",
+    "kind": "Hackathons & Community",
+    "link_label": "View credential",
+    "date": "Issued Nov 2025",
+    "display_note": ""
+  },
+  {
+    "id": "smartiq",
+    "title": "SmartIQ",
+    "issuer": "Smart Communications",
+    "issued": "2025-07",
+    "expires": null,
+    "credentialId": "120120306",
+    "credentialUrl": "https://www.linkedin.com/in/vinoth-rajalingam-67358048/details/certifications/",
+    "badgeImageUrl": null,
+    "category": "Enterprise",
+    "verificationStatus": "verified_authenticated_linkedin_record",
+    "sources": [
+      {
+        "type": "authenticated_linkedin_certifications",
+        "url": "https://www.linkedin.com/in/vinoth-rajalingam-67358048/details/certifications/",
+        "evidence": "Exact Cognizant/Plano profile read in authenticated Chrome by the parent agent on September 30, 2026."
+      }
+    ],
+    "note": "Verified authenticated LinkedIn credential record. No public issuer credential URL was supplied.",
+    "credentialLinkLabel": "LinkedIn record",
+    "url": "https://www.linkedin.com/in/vinoth-rajalingam-67358048/details/certifications/",
+    "image": null,
+    "kind": "Cloud & Enterprise CCM",
+    "link_label": "LinkedIn record",
+    "date": "Issued Jul 2025",
+    "display_note": ""
+  },
+  {
+    "id": "innovate-2025",
+    "title": "INNOVATE 2025, New Orleans, Louisiana",
+    "issuer": "Smart Communications",
+    "issued": "2025-04",
+    "expires": "2027-04",
+    "credentialId": null,
+    "credentialUrl": "https://bcert.me/szqgiswdh",
+    "badgeImageUrl": null,
+    "category": "Other",
+    "verificationStatus": "verified_authenticated_linkedin_record",
+    "sources": [
+      {
+        "type": "authenticated_linkedin_certifications",
+        "url": "https://www.linkedin.com/in/vinoth-rajalingam-67358048/details/certifications/",
+        "evidence": "Exact Cognizant/Plano profile read in authenticated Chrome by the parent agent on September 30, 2026."
+      },
+      {
+        "type": "public_credential_link",
+        "url": "https://bcert.me/szqgiswdh",
+        "access": "BadgeCert page requires JavaScript; public shell loaded."
+      }
+    ],
+    "note": "Conference participation learning badge. Dates and URL verified in authenticated LinkedIn. Expiry reported April 2027. BadgeCert requires an interactive browser to inspect the public certificate.",
+    "credentialType": "participation",
+    "url": "https://bcert.me/szqgiswdh",
+    "image": null,
+    "kind": "Hackathons & Community",
+    "link_label": "View credential",
+    "date": "Issued Apr 2025",
+    "display_note": "Expires Apr 2027"
+  },
+  {
+    "id": "quadient-interactive",
+    "title": "Inspire Interactive Basic",
+    "issuer": "Quadient",
+    "issued": "2025-02",
+    "expires": "2030-02",
+    "credentialId": null,
+    "credentialUrl": "https://bcert.me/sfggdrnfg",
+    "badgeImageUrl": null,
+    "category": "Enterprise",
+    "verificationStatus": "verified_authenticated_linkedin_record",
+    "sources": [
+      {
+        "type": "provided_resume",
+        "path": "Resume_Vinoth_Rajalingam_Updated_080626.docx"
+      },
+      {
+        "type": "authenticated_linkedin_certifications",
+        "url": "https://www.linkedin.com/in/vinoth-rajalingam-67358048/details/certifications/",
+        "evidence": "Exact Cognizant/Plano profile read in authenticated Chrome by the parent agent on September 30, 2026."
+      },
+      {
+        "type": "public_credential_link",
+        "url": "https://bcert.me/sfggdrnfg",
+        "access": "BadgeCert page requires JavaScript; public shell loaded."
+      }
+    ],
+    "note": "Issue and expiry dates and public credential link were verified in the authenticated LinkedIn certification record. Badge artwork is from the provided resume; BadgeCert requires an interactive browser to inspect the public certificate.",
+    "url": "https://bcert.me/sfggdrnfg",
+    "image": "assets/badges/quadient-interactive.png",
+    "kind": "Cloud & Enterprise CCM",
+    "link_label": "View credential",
+    "date": "Issued Feb 2025",
+    "display_note": "Expires Feb 2030"
+  },
+  {
+    "id": "quadient-icm",
+    "title": "Inspire Content Manager Basic",
+    "issuer": "Quadient",
+    "issued": "2025-02",
+    "expires": "2030-02",
+    "credentialId": null,
+    "credentialUrl": "https://bcert.me/sqqbcfpdk",
+    "badgeImageUrl": null,
+    "category": "Enterprise",
+    "verificationStatus": "verified_authenticated_linkedin_record",
+    "sources": [
+      {
+        "type": "provided_resume",
+        "path": "Resume_Vinoth_Rajalingam_Updated_080626.docx"
+      },
+      {
+        "type": "authenticated_linkedin_certifications",
+        "url": "https://www.linkedin.com/in/vinoth-rajalingam-67358048/details/certifications/",
+        "evidence": "Exact Cognizant/Plano profile read in authenticated Chrome by the parent agent on September 30, 2026."
+      },
+      {
+        "type": "public_credential_link",
+        "url": "https://bcert.me/sqqbcfpdk",
+        "access": "BadgeCert page requires JavaScript; public shell loaded."
+      }
+    ],
+    "note": "Issue and expiry dates and public credential link were verified in the authenticated LinkedIn certification record. Badge artwork is from the provided resume; BadgeCert requires an interactive browser to inspect the public certificate.",
+    "url": "https://bcert.me/sqqbcfpdk",
+    "image": "assets/badges/quadient-icm.png",
+    "kind": "Cloud & Enterprise CCM",
+    "link_label": "View credential",
+    "date": "Issued Feb 2025",
+    "display_note": "Expires Feb 2030"
+  },
+  {
+    "id": "huggingface-ai-agents",
+    "title": "AI Agents Fundamentals",
+    "issuer": "Hugging Face",
+    "issued": "2025-02-24",
+    "expires": null,
+    "credentialId": "Vinothlingam333",
+    "credentialUrl": "https://huggingface.co/datasets/agents-course/certificates/resolve/main/certificates/Vinothlingam333/2025-02-24.png",
+    "badgeImageUrl": null,
+    "category": "Other",
+    "verificationStatus": "verified_public_certificate",
+    "sources": [
+      {
+        "type": "authenticated_linkedin_certifications",
+        "url": "https://www.linkedin.com/in/vinoth-rajalingam-67358048/details/certifications/",
+        "evidence": "Exact Cognizant/Plano profile read in authenticated Chrome by the parent agent on September 30, 2026."
+      },
+      {
+        "type": "huggingface_public_certificate",
+        "url": "https://huggingface.co/datasets/agents-course/certificates/resolve/main/certificates/Vinothlingam333/2025-02-24.png",
+        "evidence": "Certificate image inspected: Vinoth Rajalingam; Fundamentals of Agents; Unit 1 Foundations of Agents; February 24, 2025."
+      }
+    ],
+    "note": "Verified course achievement for Unit 1: Foundations of Agents in the Hugging Face Agents Course; certificate title differs slightly from the LinkedIn display title.",
+    "exactSourceTitle": "Fundamentals of Agents",
+    "url": "https://huggingface.co/datasets/agents-course/certificates/resolve/main/certificates/Vinothlingam333/2025-02-24.png",
+    "image": null,
+    "kind": "AI Agents Learning",
+    "link_label": "View credential",
+    "date": "Issued Feb 2025",
+    "display_note": ""
+  },
+  {
+    "id": "claude-ai-udemy",
+    "title": "Claude AI: The AI Assistant You\u2019ll Actually Use",
+    "issuer": "Udemy (resume-reported)",
+    "issued": "2025",
+    "expires": null,
+    "credentialId": null,
+    "credentialUrl": null,
+    "badgeImageUrl": null,
+    "category": "Other",
+    "verificationStatus": "resume_reported",
+    "sources": [
+      {
+        "type": "provided_resume",
+        "path": "Resume_Vinoth_Rajalingam_Updated_080626.docx"
+      }
+    ],
+    "note": "Distinct Udemy training named in the resume. Public credential URL and issuing instructor were not provided.",
+    "url": null,
+    "image": null,
+    "kind": "Claude Course Completion",
+    "link_label": "View credential",
+    "date": "Issued 2025",
+    "display_note": "Resume-listed training"
+  },
+  {
+    "id": "google-genai-developers",
+    "title": "Google Generative AI for Developers",
+    "issuer": "Google Cloud (resume-reported)",
+    "issued": "2024-09",
+    "expires": null,
+    "credentialId": null,
+    "credentialUrl": "https://partner.skills.google/public_profiles/8fe06553-5551-4e39-92ce-7a8e3f7cdde9",
+    "badgeImageUrl": null,
+    "category": "Google",
+    "verificationStatus": "resume_reported",
+    "sources": [
+      {
+        "type": "provided_resume",
+        "path": "Resume_Vinoth_Rajalingam_Updated_080626.docx"
+      }
+    ],
+    "note": "Resume-reported learning achievement. The linked public Google partner profile was verified, but no individual award with this exact title is visible there.",
+    "url": "https://partner.skills.google/public_profiles/8fe06553-5551-4e39-92ce-7a8e3f7cdde9",
+    "image": null,
+    "kind": "Google Cloud Learning",
+    "link_label": "View learning profile",
+    "date": "Issued Sep 2024",
+    "display_note": "Resume-listed training"
+  },
+  {
+    "id": "google-9759082",
+    "title": "Develop Advanced Enterprise Search and Conversation Applications Skill Badge",
+    "issuer": "Google Cloud",
+    "issued": "2024-07-07",
+    "expires": null,
+    "credentialId": "ab91242b-20f2-4aef-ab0e-7445d1568642",
+    "credentialUrl": "https://www.credly.com/badges/ab91242b-20f2-4aef-ab0e-7445d1568642",
+    "badgeImageUrl": "https://images.credly.com/images/764975c5-de58-4628-8c37-b42c4e4a844a/linkedin_thumb_image.png",
+    "category": "Google",
+    "verificationStatus": "verified_public_badge_and_profile_award",
+    "sources": [
+      {
+        "type": "google_public_profile",
+        "url": "https://partner.skills.google/public_profiles/8fe06553-5551-4e39-92ce-7a8e3f7cdde9",
+        "evidence": "Vinoth Rajalingam; Develop Advanced Enterprise Search and Conversation Applications; Earned Jul 7, 2024 EDT"
+      },
+      {
+        "type": "credly_badge",
+        "url": "https://www.credly.com/badges/ab91242b-20f2-4aef-ab0e-7445d1568642",
+        "evidence": "Develop Advanced Enterprise Search and Conversation Applications Skill Badge was issued by Google Cloud to Vinoth Rajalingam."
+      },
+      {
+        "type": "authenticated_linkedin_certifications",
+        "url": "https://www.linkedin.com/in/vinoth-rajalingam-67358048/details/certifications/",
+        "evidence": "Exact Cognizant/Plano profile read in authenticated Chrome by the parent agent on September 30, 2026."
+      }
+    ],
+    "note": "Google Cloud skill badge verified publicly on Credly and the Google partner profile. Both verification records are preserved; this is a learning skill badge.",
+    "exactSourceTitle": "Develop Advanced Enterprise Search and Conversation Applications",
+    "courseStatus": null,
+    "relatedAwards": [
+      {
+        "title": "Develop Advanced Enterprise Search and Conversation Applications",
+        "issuer": "Google Cloud",
+        "issued": "Jul 2024",
+        "credentialId": "9759082",
+        "credentialUrl": "https://partner.skills.google/public_profiles/8fe06553-5551-4e39-92ce-7a8e3f7cdde9/badges/9759082",
+        "verificationStatus": "verified_public_profile_award",
+        "note": "Google partner-profile award for the same learning achievement; retained as an alternate verification record."
+      }
+    ],
+    "credentialType": "skill_badge",
+    "url": "https://www.credly.com/badges/ab91242b-20f2-4aef-ab0e-7445d1568642",
+    "image": "assets/badges/google-9759082.png",
+    "kind": "Google Cloud Learning",
+    "link_label": "View credential",
+    "date": "Issued Jul 2024",
+    "display_note": ""
+  },
+  {
+    "id": "google-9664023",
+    "title": "Orchestrate PaLM LLM solutions with LangChain Skill Badge",
+    "issuer": "Google Cloud",
+    "issued": "2024-06-29",
+    "expires": null,
+    "credentialId": "c58c812f-e9a3-41ec-ad98-897878c1a6c6",
+    "credentialUrl": "https://www.credly.com/badges/c58c812f-e9a3-41ec-ad98-897878c1a6c6",
+    "badgeImageUrl": "https://images.credly.com/images/008980dd-0667-46df-85e1-4f8e2d2c9428/linkedin_thumb_image.png",
+    "category": "Google",
+    "verificationStatus": "verified_public_badge_and_profile_award",
+    "sources": [
+      {
+        "type": "google_public_profile",
+        "url": "https://partner.skills.google/public_profiles/8fe06553-5551-4e39-92ce-7a8e3f7cdde9",
+        "evidence": "Vinoth Rajalingam; Orchestrate LLM solutions with LangChain; Earned Jun 29, 2024 EDT"
+      },
+      {
+        "type": "credly_badge",
+        "url": "https://www.credly.com/badges/c58c812f-e9a3-41ec-ad98-897878c1a6c6",
+        "evidence": "Orchestrate PaLM LLM solutions with LangChain Skill Badge was issued by Google Cloud to Vinoth Rajalingam."
+      },
+      {
+        "type": "authenticated_linkedin_certifications",
+        "url": "https://www.linkedin.com/in/vinoth-rajalingam-67358048/details/certifications/",
+        "evidence": "Exact Cognizant/Plano profile read in authenticated Chrome by the parent agent on September 30, 2026."
+      }
+    ],
+    "note": "Google Cloud skill badge verified publicly on Credly and the Google partner profile. Both verification records are preserved; this is a learning skill badge.",
+    "exactSourceTitle": "Orchestrate LLM solutions with LangChain",
+    "courseStatus": null,
+    "relatedAwards": [
+      {
+        "title": "Orchestrate LLM solutions with LangChain",
+        "issuer": "Google Cloud",
+        "issued": "Jun 2024",
+        "credentialId": "9664023",
+        "credentialUrl": "https://partner.skills.google/public_profiles/8fe06553-5551-4e39-92ce-7a8e3f7cdde9/badges/9664023",
+        "verificationStatus": "verified_public_profile_award",
+        "note": "Google partner-profile award for the same learning achievement; retained as an alternate verification record."
+      }
+    ],
+    "credentialType": "skill_badge",
+    "url": "https://www.credly.com/badges/c58c812f-e9a3-41ec-ad98-897878c1a6c6",
+    "image": "assets/badges/google-9664023.png",
+    "kind": "Google Cloud Learning",
+    "link_label": "View credential",
+    "date": "Issued Jun 2024",
+    "display_note": ""
+  },
+  {
+    "id": "google-9663518",
+    "title": "Explore Generative AI with the Vertex AI Gemini API Skill Badge",
+    "issuer": "Google Cloud",
+    "issued": "2024-06-29",
+    "expires": null,
+    "credentialId": "0029ceb2-2de2-4362-8b13-5111cf3f5e17",
+    "credentialUrl": "https://www.credly.com/badges/0029ceb2-2de2-4362-8b13-5111cf3f5e17",
+    "badgeImageUrl": "https://images.credly.com/images/9ecc031b-5f5a-418d-8397-1612c0f40fce/linkedin_thumb_image.png",
+    "category": "Google",
+    "verificationStatus": "verified_public_badge_and_profile_award",
+    "sources": [
+      {
+        "type": "google_public_profile",
+        "url": "https://partner.skills.google/public_profiles/8fe06553-5551-4e39-92ce-7a8e3f7cdde9",
+        "evidence": "Vinoth Rajalingam; Explore Generative AI in Agent Platform; Earned Jun 29, 2024 EDT"
+      },
+      {
+        "type": "credly_badge",
+        "url": "https://www.credly.com/badges/0029ceb2-2de2-4362-8b13-5111cf3f5e17",
+        "evidence": "Explore Generative AI with the Vertex AI Gemini API Skill Badge was issued by Google Cloud to Vinoth Rajalingam."
+      },
+      {
+        "type": "authenticated_linkedin_certifications",
+        "url": "https://www.linkedin.com/in/vinoth-rajalingam-67358048/details/certifications/",
+        "evidence": "Exact Cognizant/Plano profile read in authenticated Chrome by the parent agent on September 30, 2026."
+      }
+    ],
+    "note": "Google Cloud skill badge verified publicly on Credly and the Google partner profile. Both verification records are preserved; this is a learning skill badge.",
+    "exactSourceTitle": "Explore Generative AI in Agent Platform",
+    "courseStatus": null,
+    "relatedAwards": [
+      {
+        "title": "Explore Generative AI in Agent Platform",
+        "issuer": "Google Cloud",
+        "issued": "Jun 2024",
+        "credentialId": "9663518",
+        "credentialUrl": "https://partner.skills.google/public_profiles/8fe06553-5551-4e39-92ce-7a8e3f7cdde9/badges/9663518",
+        "verificationStatus": "verified_public_profile_award",
+        "note": "Google partner-profile award for the same learning achievement; retained as an alternate verification record."
+      }
+    ],
+    "credentialType": "skill_badge",
+    "url": "https://www.credly.com/badges/0029ceb2-2de2-4362-8b13-5111cf3f5e17",
+    "image": "assets/badges/google-9663518.png",
+    "kind": "Google Cloud Learning",
+    "link_label": "View credential",
+    "date": "Issued Jun 2024",
+    "display_note": ""
+  },
+  {
+    "id": "google-9553807",
+    "title": "Integrate Vertex AI Search and Conversation into Voice and Chat Apps Skill Badge",
+    "issuer": "Google Cloud",
+    "issued": "2024-06-21",
+    "expires": null,
+    "credentialId": "d069f36a-06e2-4b2a-b8de-74dbfb2c3cc4",
+    "credentialUrl": "https://www.credly.com/badges/d069f36a-06e2-4b2a-b8de-74dbfb2c3cc4",
+    "badgeImageUrl": "https://images.credly.com/images/6011cca2-cda8-4374-b0fa-bb1bb0598c15/linkedin_thumb_image.png",
+    "category": "Google",
+    "verificationStatus": "verified_public_badge_and_profile_award",
+    "sources": [
+      {
+        "type": "google_public_profile",
+        "url": "https://partner.skills.google/public_profiles/8fe06553-5551-4e39-92ce-7a8e3f7cdde9",
+        "evidence": "Vinoth Rajalingam; Integrate Vertex AI Search and Conversation into Voice and Chat Apps; Earned Jun 21, 2024 EDT"
+      },
+      {
+        "type": "credly_badge",
+        "url": "https://www.credly.com/badges/d069f36a-06e2-4b2a-b8de-74dbfb2c3cc4",
+        "evidence": "Integrate Vertex AI Search and Conversation into Voice and Chat Apps Skill Badge was issued by Google Cloud to Vinoth Rajalingam."
+      },
+      {
+        "type": "authenticated_linkedin_certifications",
+        "url": "https://www.linkedin.com/in/vinoth-rajalingam-67358048/details/certifications/",
+        "evidence": "Exact Cognizant/Plano profile read in authenticated Chrome by the parent agent on September 30, 2026."
+      }
+    ],
+    "note": "Google Cloud skill badge verified publicly on Credly and the Google partner profile. Both verification records are preserved; this is a learning skill badge.",
+    "exactSourceTitle": "Integrate Vertex AI Search and Conversation into Voice and Chat Apps",
+    "courseStatus": null,
+    "relatedAwards": [
+      {
+        "title": "Integrate Vertex AI Search and Conversation into Voice and Chat Apps",
+        "issuer": "Google Cloud",
+        "issued": "Jun 2024",
+        "credentialId": "9553807",
+        "credentialUrl": "https://partner.skills.google/public_profiles/8fe06553-5551-4e39-92ce-7a8e3f7cdde9/badges/9553807",
+        "verificationStatus": "verified_public_profile_award",
+        "note": "Google partner-profile award for the same learning achievement; retained as an alternate verification record."
+      }
+    ],
+    "credentialType": "skill_badge",
+    "url": "https://www.credly.com/badges/d069f36a-06e2-4b2a-b8de-74dbfb2c3cc4",
+    "image": "assets/badges/google-9553807.png",
+    "kind": "Google Cloud Learning",
+    "link_label": "View credential",
+    "date": "Issued Jun 2024",
+    "display_note": ""
+  },
+  {
+    "id": "google-9553190",
+    "title": "Inspect Rich Documents with Gemini Multimodality and Multimodal RAG Skill Badge",
+    "issuer": "Google Cloud",
+    "issued": "2024-06-21",
+    "expires": null,
+    "credentialId": "c1625b44-8e41-4b03-9655-ecd3d1b694d4",
+    "credentialUrl": "https://www.credly.com/badges/c1625b44-8e41-4b03-9655-ecd3d1b694d4",
+    "badgeImageUrl": "https://images.credly.com/images/86a3283f-3e35-494f-82da-3fb3e89ba223/linkedin_thumb_image.png",
+    "category": "Google",
+    "verificationStatus": "verified_public_badge_and_profile_award",
+    "sources": [
+      {
+        "type": "google_public_profile",
+        "url": "https://partner.skills.google/public_profiles/8fe06553-5551-4e39-92ce-7a8e3f7cdde9",
+        "evidence": "Vinoth Rajalingam; Inspect Rich Documents with Gemini Multimodality and Multimodal RAG; Earned Jun 21, 2024 EDT"
+      },
+      {
+        "type": "credly_badge",
+        "url": "https://www.credly.com/badges/c1625b44-8e41-4b03-9655-ecd3d1b694d4",
+        "evidence": "Inspect Rich Documents with Gemini Multimodality and Multimodal RAG Skill Badge was issued by Google Cloud to Vinoth Rajalingam."
+      },
+      {
+        "type": "authenticated_linkedin_certifications",
+        "url": "https://www.linkedin.com/in/vinoth-rajalingam-67358048/details/certifications/",
+        "evidence": "Exact Cognizant/Plano profile read in authenticated Chrome by the parent agent on September 30, 2026."
+      }
+    ],
+    "note": "Google Cloud skill badge verified publicly on Credly and the Google partner profile. Both verification records are preserved; this is a learning skill badge.",
+    "exactSourceTitle": "Inspect Rich Documents with Gemini Multimodality and Multimodal RAG",
+    "courseStatus": null,
+    "relatedAwards": [
+      {
+        "title": "Inspect Rich Documents with Gemini Multimodality and Multimodal RAG",
+        "issuer": "Google Cloud",
+        "issued": "Jun 2024",
+        "credentialId": "9553190",
+        "credentialUrl": "https://partner.skills.google/public_profiles/8fe06553-5551-4e39-92ce-7a8e3f7cdde9/badges/9553190",
+        "verificationStatus": "verified_public_profile_award",
+        "note": "Google partner-profile award for the same learning achievement; retained as an alternate verification record."
+      }
+    ],
+    "credentialType": "skill_badge",
+    "url": "https://www.credly.com/badges/c1625b44-8e41-4b03-9655-ecd3d1b694d4",
+    "image": "assets/badges/google-9553190.png",
+    "kind": "Google Cloud Learning",
+    "link_label": "View credential",
+    "date": "Issued Jun 2024",
+    "display_note": ""
+  },
+  {
+    "id": "google-9492721",
+    "title": "Conversations on Vertex AI Agent Builder",
+    "issuer": "Google Cloud",
+    "issued": "2024-06-18",
+    "expires": null,
+    "credentialId": "9492721",
+    "credentialUrl": "https://partner.skills.google/public_profiles/8fe06553-5551-4e39-92ce-7a8e3f7cdde9/badges/9492721",
+    "badgeImageUrl": "https://cdn.qwiklabs.com/dGvWU2EDO9fcnGT2dZ82x%2B%2B2KYSb%2B5sWLPaQBjSV9Yo%3D",
+    "category": "Google",
+    "verificationStatus": "verified_public_profile_award",
+    "sources": [
+      {
+        "type": "google_public_profile",
+        "url": "https://partner.skills.google/public_profiles/8fe06553-5551-4e39-92ce-7a8e3f7cdde9",
+        "evidence": "Vinoth Rajalingam; Introduction to Gemini Enterprise for Customer Experience; Earned Jun 18, 2024 EDT"
+      }
+    ],
+    "note": "Earned Google course or skill badge. This does not imply a professional Google Cloud certification.",
+    "exactSourceTitle": "Introduction to Gemini Enterprise for Customer Experience",
+    "courseStatus": null,
+    "url": "https://partner.skills.google/public_profiles/8fe06553-5551-4e39-92ce-7a8e3f7cdde9/badges/9492721",
+    "image": "assets/badges/google-9492721.png",
+    "kind": "Google Cloud Learning",
+    "link_label": "View credential",
+    "date": "Issued Jun 2024",
+    "display_note": "",
+    "currentTitle": "Introduction to Gemini Enterprise for Customer Experience"
+  },
+  {
+    "id": "google-9400793",
+    "title": "Improving developer velocity with Gemini Code Assist",
+    "issuer": "Google Cloud",
+    "issued": "2024-06-10",
+    "expires": null,
+    "credentialId": "9400793",
+    "credentialUrl": "https://partner.skills.google/public_profiles/8fe06553-5551-4e39-92ce-7a8e3f7cdde9/badges/9400793",
+    "badgeImageUrl": "https://cdn.qwiklabs.com/oFmZvEMK3vLC%2FZtntuDu16OGl69Exq3lmOK5Joy3qt4%3D",
+    "category": "Google",
+    "verificationStatus": "verified_public_profile_award",
+    "sources": [
+      {
+        "type": "google_public_profile",
+        "url": "https://partner.skills.google/public_profiles/8fe06553-5551-4e39-92ce-7a8e3f7cdde9",
+        "evidence": "Vinoth Rajalingam; [DEPRECATED] Improving developer velocity with Gemini Code Assist; Earned Jun 10, 2024 EDT"
+      }
+    ],
+    "note": "Earned Google course or skill badge. This does not imply a professional Google Cloud certification. Google currently labels this course deprecated.",
+    "exactSourceTitle": "[DEPRECATED] Improving developer velocity with Gemini Code Assist",
+    "courseStatus": "deprecated",
+    "url": "https://partner.skills.google/public_profiles/8fe06553-5551-4e39-92ce-7a8e3f7cdde9/badges/9400793",
+    "image": "assets/badges/google-9400793.png",
+    "kind": "Google Cloud Learning",
+    "link_label": "View credential",
+    "date": "Issued Jun 2024",
+    "display_note": ""
+  },
+  {
+    "id": "google-9386447",
+    "title": "Multimodality with Gemini",
+    "issuer": "Google Cloud",
+    "issued": "2024-06-09",
+    "expires": null,
+    "credentialId": "9386447",
+    "credentialUrl": "https://partner.skills.google/public_profiles/8fe06553-5551-4e39-92ce-7a8e3f7cdde9/badges/9386447",
+    "badgeImageUrl": "https://cdn.qwiklabs.com/9muhZSX0LICttQklAkxbNSR%2FDYM%2B%2Bfmvk%2B1gSmztvxk%3D",
+    "category": "Google",
+    "verificationStatus": "verified_public_profile_award",
+    "sources": [
+      {
+        "type": "google_public_profile",
+        "url": "https://partner.skills.google/public_profiles/8fe06553-5551-4e39-92ce-7a8e3f7cdde9",
+        "evidence": "Vinoth Rajalingam; [DEPRECATED] - Multimodality with Gemini; Earned Jun 9, 2024 EDT"
+      }
+    ],
+    "note": "Earned Google course or skill badge. This does not imply a professional Google Cloud certification. Google currently labels this course deprecated.",
+    "exactSourceTitle": "[DEPRECATED] - Multimodality with Gemini",
+    "courseStatus": "deprecated",
+    "url": "https://partner.skills.google/public_profiles/8fe06553-5551-4e39-92ce-7a8e3f7cdde9/badges/9386447",
+    "image": "assets/badges/google-9386447.png",
+    "kind": "Google Cloud Learning",
+    "link_label": "View credential",
+    "date": "Issued Jun 2024",
+    "display_note": ""
+  },
+  {
+    "id": "google-9386229",
+    "title": "App Dev with Gemini",
+    "issuer": "Google Cloud",
+    "issued": "2024-06-09",
+    "expires": null,
+    "credentialId": "9386229",
+    "credentialUrl": "https://partner.skills.google/public_profiles/8fe06553-5551-4e39-92ce-7a8e3f7cdde9/badges/9386229",
+    "badgeImageUrl": "https://cdn.qwiklabs.com/PBoclztEMpi%2F7WBxjuTrxOCH%2FRjxEfQO%2FujR9LpVnK0%3D",
+    "category": "Google",
+    "verificationStatus": "verified_public_profile_award",
+    "sources": [
+      {
+        "type": "google_public_profile",
+        "url": "https://partner.skills.google/public_profiles/8fe06553-5551-4e39-92ce-7a8e3f7cdde9",
+        "evidence": "Vinoth Rajalingam; [DEPRECATED] App Dev with Gemini; Earned Jun 9, 2024 EDT"
+      }
+    ],
+    "note": "Earned Google course or skill badge. This does not imply a professional Google Cloud certification. Google currently labels this course deprecated.",
+    "exactSourceTitle": "[DEPRECATED] App Dev with Gemini",
+    "courseStatus": "deprecated",
+    "url": "https://partner.skills.google/public_profiles/8fe06553-5551-4e39-92ce-7a8e3f7cdde9/badges/9386229",
+    "image": "assets/badges/google-9386229.png",
+    "kind": "Google Cloud Learning",
+    "link_label": "View credential",
+    "date": "Issued Jun 2024",
+    "display_note": ""
+  },
+  {
+    "id": "google-9351794",
+    "title": "Multi-modal Prompt Engineering with Gemini and PaLM",
+    "issuer": "Google Cloud",
+    "issued": "2024-06-06",
+    "expires": null,
+    "credentialId": "9351794",
+    "credentialUrl": "https://partner.skills.google/public_profiles/8fe06553-5551-4e39-92ce-7a8e3f7cdde9/badges/9351794",
+    "badgeImageUrl": "https://cdn.qwiklabs.com/rF6kEpy8XqyBl20rquSW8rX2DteFkzF20%2BhLPmhfOgI%3D",
+    "category": "Google",
+    "verificationStatus": "verified_public_profile_award",
+    "sources": [
+      {
+        "type": "google_public_profile",
+        "url": "https://partner.skills.google/public_profiles/8fe06553-5551-4e39-92ce-7a8e3f7cdde9",
+        "evidence": "Vinoth Rajalingam; [DEPRECATED] Building Gen AI Apps with Vertex AI: Prompting and Tuning; Earned Jun 6, 2024 EDT"
+      }
+    ],
+    "note": "Earned Google course or skill badge. This does not imply a professional Google Cloud certification. Google currently labels this course deprecated.",
+    "exactSourceTitle": "[DEPRECATED] Building Gen AI Apps with Vertex AI: Prompting and Tuning",
+    "courseStatus": "deprecated",
+    "url": "https://partner.skills.google/public_profiles/8fe06553-5551-4e39-92ce-7a8e3f7cdde9/badges/9351794",
+    "image": "assets/badges/google-9351794.png",
+    "kind": "Google Cloud Learning",
+    "link_label": "View credential",
+    "date": "Issued Jun 2024",
+    "display_note": "",
+    "currentTitle": "Building Gen AI Apps with Vertex AI: Prompting and Tuning"
+  },
+  {
+    "id": "google-9325386",
+    "title": "Getting Started with the Vertex AI Gemini API",
+    "issuer": "Google Cloud",
+    "issued": "2024-06-04",
+    "expires": null,
+    "credentialId": "9325386",
+    "credentialUrl": "https://partner.skills.google/public_profiles/8fe06553-5551-4e39-92ce-7a8e3f7cdde9/badges/9325386",
+    "badgeImageUrl": "https://cdn.qwiklabs.com/natEauP2XO89J8%2FZ9AVhIIr4hSx0bsQyROOvr5Gv5DI%3D",
+    "category": "Google",
+    "verificationStatus": "verified_public_profile_award",
+    "sources": [
+      {
+        "type": "google_public_profile",
+        "url": "https://partner.skills.google/public_profiles/8fe06553-5551-4e39-92ce-7a8e3f7cdde9",
+        "evidence": "Vinoth Rajalingam; [DEPRECATED] Getting Started with the Vertex AI Gemini API; Earned Jun 4, 2024 EDT"
+      }
+    ],
+    "note": "Earned Google course or skill badge. This does not imply a professional Google Cloud certification. Google currently labels this course deprecated.",
+    "exactSourceTitle": "[DEPRECATED] Getting Started with the Vertex AI Gemini API",
+    "courseStatus": "deprecated",
+    "url": "https://partner.skills.google/public_profiles/8fe06553-5551-4e39-92ce-7a8e3f7cdde9/badges/9325386",
+    "image": "assets/badges/google-9325386.png",
+    "kind": "Google Cloud Learning",
+    "link_label": "View credential",
+    "date": "Issued Jun 2024",
+    "display_note": ""
+  },
+  {
+    "id": "google-9295483",
+    "title": "Custom Search with Embeddings in Vertex AI",
+    "issuer": "Google Cloud",
+    "issued": "2024-06-02",
+    "expires": null,
+    "credentialId": "9295483",
+    "credentialUrl": "https://partner.skills.google/public_profiles/8fe06553-5551-4e39-92ce-7a8e3f7cdde9/badges/9295483",
+    "badgeImageUrl": "https://cdn.qwiklabs.com/lQROBvtMX7E5YQ23n3FS86ezLqcj9B1o%2FMqje0YHBKA%3D",
+    "category": "Google",
+    "verificationStatus": "verified_public_profile_award",
+    "sources": [
+      {
+        "type": "google_public_profile",
+        "url": "https://partner.skills.google/public_profiles/8fe06553-5551-4e39-92ce-7a8e3f7cdde9",
+        "evidence": "Vinoth Rajalingam; [DEPRECATED] Custom Search with Embeddings in Vertex AI; Earned Jun 2, 2024 EDT"
+      }
+    ],
+    "note": "Earned Google course or skill badge. This does not imply a professional Google Cloud certification. Google currently labels this course deprecated.",
+    "exactSourceTitle": "[DEPRECATED] Custom Search with Embeddings in Vertex AI",
+    "courseStatus": "deprecated",
+    "url": "https://partner.skills.google/public_profiles/8fe06553-5551-4e39-92ce-7a8e3f7cdde9/badges/9295483",
+    "image": "assets/badges/google-9295483.png",
+    "kind": "Google Cloud Learning",
+    "link_label": "View credential",
+    "date": "Issued Jun 2024",
+    "display_note": ""
+  },
+  {
+    "id": "google-9286858",
+    "title": "Search on Vertex AI Agent Builder",
+    "issuer": "Google Cloud",
+    "issued": "2024-06-01",
+    "expires": null,
+    "credentialId": "9286858",
+    "credentialUrl": "https://partner.skills.google/public_profiles/8fe06553-5551-4e39-92ce-7a8e3f7cdde9/badges/9286858",
+    "badgeImageUrl": "https://cdn.qwiklabs.com/TugmtMSf8cGro%2FW7HXggxOatqqXkHWY9wgXFMQjm%2FiQ%3D",
+    "category": "Google",
+    "verificationStatus": "verified_public_profile_award",
+    "sources": [
+      {
+        "type": "google_public_profile",
+        "url": "https://partner.skills.google/public_profiles/8fe06553-5551-4e39-92ce-7a8e3f7cdde9",
+        "evidence": "Vinoth Rajalingam; [DEPRECATED] Search with AI Applications; Earned Jun 1, 2024 EDT"
+      }
+    ],
+    "note": "Earned Google course or skill badge. This does not imply a professional Google Cloud certification. Google currently labels this course deprecated.",
+    "exactSourceTitle": "[DEPRECATED] Search with AI Applications",
+    "courseStatus": "deprecated",
+    "url": "https://partner.skills.google/public_profiles/8fe06553-5551-4e39-92ce-7a8e3f7cdde9/badges/9286858",
+    "image": "assets/badges/google-9286858.png",
+    "kind": "Google Cloud Learning",
+    "link_label": "View credential",
+    "date": "Issued Jun 2024",
+    "display_note": "",
+    "currentTitle": "Search with AI Applications"
+  },
+  {
+    "id": "google-8975654",
+    "title": "Vector Search and Embeddings",
+    "issuer": "Google Cloud",
+    "issued": "2024-05-11",
+    "expires": null,
+    "credentialId": "8975654",
+    "credentialUrl": "https://partner.skills.google/public_profiles/8fe06553-5551-4e39-92ce-7a8e3f7cdde9/badges/8975654",
+    "badgeImageUrl": "https://cdn.qwiklabs.com/OTvzCNahRc5yWQmHZ0Bu3%2BNt%2FrbD1Em2CsqQU3gLTW8%3D",
+    "category": "Google",
+    "verificationStatus": "verified_public_profile_award",
+    "sources": [
+      {
+        "type": "google_public_profile",
+        "url": "https://partner.skills.google/public_profiles/8fe06553-5551-4e39-92ce-7a8e3f7cdde9",
+        "evidence": "Vinoth Rajalingam; Vector Search and Embeddings; Earned May 11, 2024 EDT"
+      }
+    ],
+    "note": "Earned Google course or skill badge. This does not imply a professional Google Cloud certification.",
+    "exactSourceTitle": "Vector Search and Embeddings",
+    "courseStatus": null,
+    "url": "https://partner.skills.google/public_profiles/8fe06553-5551-4e39-92ce-7a8e3f7cdde9/badges/8975654",
+    "image": "assets/badges/google-8975654.png",
+    "kind": "Google Cloud Learning",
+    "link_label": "View credential",
+    "date": "Issued May 2024",
+    "display_note": ""
+  },
+  {
+    "id": "innovate-2024",
+    "title": "INNOVATE 2024, Austin, Texas",
+    "issuer": "Smart Communications",
+    "issued": "2024-04",
+    "expires": "2026-04",
+    "credentialId": null,
+    "credentialUrl": "https://bcert.me/somscheff",
+    "badgeImageUrl": null,
+    "category": "Other",
+    "verificationStatus": "verified_authenticated_linkedin_record",
+    "sources": [
+      {
+        "type": "authenticated_linkedin_certifications",
+        "url": "https://www.linkedin.com/in/vinoth-rajalingam-67358048/details/certifications/",
+        "evidence": "Exact Cognizant/Plano profile read in authenticated Chrome by the parent agent on September 30, 2026."
+      },
+      {
+        "type": "public_credential_link",
+        "url": "https://bcert.me/somscheff",
+        "access": "BadgeCert page requires JavaScript; public shell loaded."
+      }
+    ],
+    "note": "Conference participation learning badge. Dates and URL verified in authenticated LinkedIn. Expired April 2026. BadgeCert requires an interactive browser to inspect the public certificate.",
+    "credentialType": "participation",
+    "url": "https://bcert.me/somscheff",
+    "image": null,
+    "kind": "Hackathons & Community",
+    "link_label": "View credential",
+    "date": "Issued Apr 2024",
+    "display_note": "Expired Apr 2026"
+  },
+  {
+    "id": "google-8039497",
+    "title": "Introduction to Vertex AI Studio",
+    "issuer": "Google Cloud",
+    "issued": "2024-02-14",
+    "expires": null,
+    "credentialId": "8039497",
+    "credentialUrl": "https://partner.skills.google/public_profiles/8fe06553-5551-4e39-92ce-7a8e3f7cdde9/badges/8039497",
+    "badgeImageUrl": "https://cdn.qwiklabs.com/%2Be%2B2x9%2B4LuE28xcWa%2FKKvB3X3yA7mX7MrnoCphQVUfU%3D",
+    "category": "Google",
+    "verificationStatus": "verified_public_profile_award",
+    "sources": [
+      {
+        "type": "google_public_profile",
+        "url": "https://partner.skills.google/public_profiles/8fe06553-5551-4e39-92ce-7a8e3f7cdde9",
+        "evidence": "Vinoth Rajalingam; Introduction to Vertex AI Studio; Earned Feb 14, 2024 EST"
+      }
+    ],
+    "note": "Earned Google course or skill badge. This does not imply a professional Google Cloud certification.",
+    "exactSourceTitle": "Introduction to Vertex AI Studio",
+    "courseStatus": null,
+    "url": "https://partner.skills.google/public_profiles/8fe06553-5551-4e39-92ce-7a8e3f7cdde9/badges/8039497",
+    "image": "assets/badges/google-8039497.png",
+    "kind": "Google Cloud Learning",
+    "link_label": "View credential",
+    "date": "Issued Feb 2024",
+    "display_note": ""
+  },
+  {
+    "id": "google-8030559",
+    "title": "Responsible AI: Applying AI Principles with Google Cloud",
+    "issuer": "Google Cloud",
+    "issued": "2024-02-13",
+    "expires": null,
+    "credentialId": "8030559",
+    "credentialUrl": "https://partner.skills.google/public_profiles/8fe06553-5551-4e39-92ce-7a8e3f7cdde9/badges/8030559",
+    "badgeImageUrl": "https://cdn.qwiklabs.com/FtNY6na5Bo%2FfwpNou%2FmLWQj0oO30MetqrkrSIQO3CEc%3D",
+    "category": "Google",
+    "verificationStatus": "verified_public_profile_award",
+    "sources": [
+      {
+        "type": "provided_resume",
+        "path": "Resume_Vinoth_Rajalingam_Updated_080626.docx"
+      },
+      {
+        "type": "google_public_profile",
+        "url": "https://partner.skills.google/public_profiles/8fe06553-5551-4e39-92ce-7a8e3f7cdde9",
+        "evidence": "Vinoth Rajalingam; Responsible AI: Applying AI Principles with Google Cloud; Earned Feb 13, 2024 EST"
+      },
+      {
+        "type": "authenticated_linkedin_certifications",
+        "url": "https://www.linkedin.com/in/vinoth-rajalingam-67358048/details/certifications/",
+        "evidence": "Exact Cognizant/Plano profile read in authenticated Chrome by the parent agent on September 30, 2026."
+      }
+    ],
+    "note": "Earned Google course or skill badge. This does not imply a professional Google Cloud certification.",
+    "exactSourceTitle": "Responsible AI: Applying AI Principles with Google Cloud",
+    "courseStatus": null,
+    "relatedAwards": [
+      {
+        "title": "Responsible AI: Applying AI Principles with Google Cloud",
+        "issuer": "Google Cloud",
+        "issued": "Sep 2023",
+        "credentialId": "5043202",
+        "credentialUrl": "https://www.cloudskillsboost.google/public_profiles/50197c5c-faf3-42e0-b922-0b2b67eb7ad1/badges/5043202",
+        "verificationStatus": "verified_public_award_and_linkedin_date",
+        "source": {
+          "type": "google_public_award",
+          "url": "https://www.cloudskillsboost.google/public_profiles/50197c5c-faf3-42e0-b922-0b2b67eb7ad1/badges/5043202",
+          "evidence": "Responsible AI: Applying AI Principles with Google Cloud; public page states Vinoth Rajalingam has earned this award."
+        },
+        "note": "Separately earned award on the personal Google Skills profile; partner-profile award above is a different award/date."
+      }
+    ],
+    "url": "https://partner.skills.google/public_profiles/8fe06553-5551-4e39-92ce-7a8e3f7cdde9/badges/8030559",
+    "image": "assets/badges/google-8030559.png",
+    "kind": "Google Cloud Learning",
+    "link_label": "View credential",
+    "date": "Issued Feb 2024",
+    "display_note": ""
+  },
+  {
+    "id": "google-8030278",
+    "title": "Generative AI Fundamentals",
+    "issuer": "Google Cloud",
+    "issued": "2024-02-13",
+    "expires": null,
+    "credentialId": "8030278",
+    "credentialUrl": "https://partner.skills.google/public_profiles/8fe06553-5551-4e39-92ce-7a8e3f7cdde9/badges/8030278",
+    "badgeImageUrl": "https://cdn.qwiklabs.com/r7WDapjnRRp8BH1x6gJY7yWl48oNBYcsrWrr0ZKqycI%3D",
+    "category": "Google",
+    "verificationStatus": "verified_public_profile_award",
+    "sources": [
+      {
+        "type": "provided_resume",
+        "path": "Resume_Vinoth_Rajalingam_Updated_080626.docx"
+      },
+      {
+        "type": "google_public_profile",
+        "url": "https://partner.skills.google/public_profiles/8fe06553-5551-4e39-92ce-7a8e3f7cdde9",
+        "evidence": "Vinoth Rajalingam; [DEPRECATED] Generative AI Fundamentals; Earned Feb 13, 2024 EST"
+      },
+      {
+        "type": "authenticated_linkedin_certifications",
+        "url": "https://www.linkedin.com/in/vinoth-rajalingam-67358048/details/certifications/",
+        "evidence": "Exact Cognizant/Plano profile read in authenticated Chrome by the parent agent on September 30, 2026."
+      }
+    ],
+    "note": "Earned Google course or skill badge. This does not imply a professional Google Cloud certification. Google currently labels this course deprecated.",
+    "exactSourceTitle": "[DEPRECATED] Generative AI Fundamentals",
+    "courseStatus": "deprecated",
+    "relatedAwards": [
+      {
+        "title": "Generative AI Fundamentals",
+        "issuer": "Google Cloud",
+        "issued": "Aug 2023",
+        "credentialId": "4928143",
+        "credentialUrl": "https://www.cloudskillsboost.google/public_profiles/50197c5c-faf3-42e0-b922-0b2b67eb7ad1/badges/4928143",
+        "verificationStatus": "verified_public_award_and_linkedin_date",
+        "source": {
+          "type": "google_public_award",
+          "url": "https://www.cloudskillsboost.google/public_profiles/50197c5c-faf3-42e0-b922-0b2b67eb7ad1/badges/4928143",
+          "evidence": "Generative AI Fundamentals; public page states Vinoth Rajalingam has earned this award."
+        },
+        "note": "Separately earned award on the personal Google Skills profile; partner-profile award above is a different award/date."
+      }
+    ],
+    "url": "https://partner.skills.google/public_profiles/8fe06553-5551-4e39-92ce-7a8e3f7cdde9/badges/8030278",
+    "image": "assets/badges/google-8030278.png",
+    "kind": "Google Cloud Learning",
+    "link_label": "View credential",
+    "date": "Issued Feb 2024",
+    "display_note": ""
+  },
+  {
+    "id": "google-8030131",
+    "title": "Generative AI Explorer : Vertex AI",
+    "issuer": "Google Cloud",
+    "issued": "2024-02-13",
+    "expires": null,
+    "credentialId": "8030131",
+    "credentialUrl": "https://partner.skills.google/public_profiles/8fe06553-5551-4e39-92ce-7a8e3f7cdde9/badges/8030131",
+    "badgeImageUrl": "https://cdn.qwiklabs.com/DyfOungolRjbkpCb7pnfny0c2LGu41E2mqK9Nsg%2BI30%3D",
+    "category": "Google",
+    "verificationStatus": "verified_public_profile_award",
+    "sources": [
+      {
+        "type": "google_public_profile",
+        "url": "https://partner.skills.google/public_profiles/8fe06553-5551-4e39-92ce-7a8e3f7cdde9",
+        "evidence": "Vinoth Rajalingam; Generative AI Explorer : Vertex AI; Earned Feb 13, 2024 EST"
+      }
+    ],
+    "note": "Earned Google course or skill badge. This does not imply a professional Google Cloud certification.",
+    "exactSourceTitle": "Generative AI Explorer : Vertex AI",
+    "courseStatus": null,
+    "url": "https://partner.skills.google/public_profiles/8fe06553-5551-4e39-92ce-7a8e3f7cdde9/badges/8030131",
+    "image": "assets/badges/google-8030131.png",
+    "kind": "Google Cloud Learning",
+    "link_label": "View credential",
+    "date": "Issued Feb 2024",
+    "display_note": ""
+  },
+  {
+    "id": "google-genai-studio",
+    "title": "Introduction to Generative AI Studio",
+    "issuer": "Google",
+    "issued": "2024-01",
+    "expires": null,
+    "credentialId": "6974039",
+    "credentialUrl": "https://www.cloudskillsboost.google/public_profiles/50197c5c-faf3-42e0-b922-0b2b67eb7ad1/badges/6974039",
+    "badgeImageUrl": "https://cdn.qwiklabs.com/%2Be%2B2x9%2B4LuE28xcWa%2FKKvB3X3yA7mX7MrnoCphQVUfU%3D",
+    "category": "Google",
+    "verificationStatus": "verified_public_award_and_linkedin_date",
+    "sources": [
+      {
+        "type": "provided_resume",
+        "path": "Resume_Vinoth_Rajalingam_Updated_080626.docx"
+      },
+      {
+        "type": "authenticated_linkedin_certifications",
+        "url": "https://www.linkedin.com/in/vinoth-rajalingam-67358048/details/certifications/",
+        "evidence": "Exact Cognizant/Plano profile read in authenticated Chrome by the parent agent on September 30, 2026."
+      },
+      {
+        "type": "google_public_award",
+        "url": "https://www.cloudskillsboost.google/public_profiles/50197c5c-faf3-42e0-b922-0b2b67eb7ad1/badges/6974039",
+        "evidence": "Introduction to Generative AI Studio; public page states Vinoth Rajalingam has earned this award."
+      }
+    ],
+    "note": "Public Google Skills award page verifies Vinoth Rajalingam earned this specific award. Issue month is from the authenticated LinkedIn certification record. Introduction to Vertex AI Studio, February 2024, remains a distinct partner-profile award.",
+    "url": "https://www.cloudskillsboost.google/public_profiles/50197c5c-faf3-42e0-b922-0b2b67eb7ad1/badges/6974039",
+    "image": "assets/badges/google-genai-studio.png",
+    "kind": "Google Cloud Learning",
+    "link_label": "View credential",
+    "date": "Issued Jan 2024",
+    "display_note": ""
+  },
+  {
+    "id": "google-5454029",
+    "title": "Introduction to Responsible AI",
+    "issuer": "Google Cloud",
+    "issued": "2023-10-02",
+    "expires": null,
+    "credentialId": "5454029",
+    "credentialUrl": "https://partner.skills.google/public_profiles/8fe06553-5551-4e39-92ce-7a8e3f7cdde9/badges/5454029",
+    "badgeImageUrl": "https://cdn.qwiklabs.com/Bej3HGFf268lfrs5oZpmHEhxpCmRwxCsiXAIaIwJfPk%3D",
+    "category": "Google",
+    "verificationStatus": "verified_public_profile_award",
+    "sources": [
+      {
+        "type": "provided_resume",
+        "path": "Resume_Vinoth_Rajalingam_Updated_080626.docx"
+      },
+      {
+        "type": "google_public_profile",
+        "url": "https://partner.skills.google/public_profiles/8fe06553-5551-4e39-92ce-7a8e3f7cdde9",
+        "evidence": "Vinoth Rajalingam; [DEPRECATED]Introduction to Responsible AI; Earned Oct 2, 2023 EDT"
+      },
+      {
+        "type": "authenticated_linkedin_certifications",
+        "url": "https://www.linkedin.com/in/vinoth-rajalingam-67358048/details/certifications/",
+        "evidence": "Exact Cognizant/Plano profile read in authenticated Chrome by the parent agent on September 30, 2026."
+      }
+    ],
+    "note": "Earned Google course or skill badge. This does not imply a professional Google Cloud certification. Google currently labels this course deprecated.",
+    "exactSourceTitle": "[DEPRECATED]Introduction to Responsible AI",
+    "courseStatus": "deprecated",
+    "relatedAwards": [
+      {
+        "title": "Introduction to Responsible AI",
+        "issuer": "Google Cloud",
+        "issued": "Aug 2023",
+        "credentialId": "4927469",
+        "credentialUrl": "https://www.cloudskillsboost.google/public_profiles/50197c5c-faf3-42e0-b922-0b2b67eb7ad1/badges/4927469",
+        "verificationStatus": "verified_public_award_and_linkedin_date",
+        "source": {
+          "type": "google_public_award",
+          "url": "https://www.cloudskillsboost.google/public_profiles/50197c5c-faf3-42e0-b922-0b2b67eb7ad1/badges/4927469",
+          "evidence": "Introduction to Responsible AI; public page states Vinoth Rajalingam has earned this award."
+        },
+        "note": "Separately earned award on the personal Google Skills profile; partner-profile award above is a different award/date."
+      }
+    ],
+    "url": "https://partner.skills.google/public_profiles/8fe06553-5551-4e39-92ce-7a8e3f7cdde9/badges/5454029",
+    "image": "assets/badges/google-5454029.png",
+    "kind": "Google Cloud Learning",
+    "link_label": "View credential",
+    "date": "Issued Oct 2023",
+    "display_note": ""
+  },
+  {
+    "id": "quadient-scaler",
+    "title": "Inspire Scaler Basic",
+    "issuer": "Quadient",
+    "issued": "2023-09",
+    "expires": "2028-09",
+    "credentialId": "4D847A95CD5838478014F52DCBCD9EC9",
+    "credentialUrl": "https://bcert.me/sfqshmank",
+    "badgeImageUrl": null,
+    "category": "Enterprise",
+    "verificationStatus": "verified_authenticated_linkedin_record",
+    "sources": [
+      {
+        "type": "provided_resume",
+        "path": "Resume_Vinoth_Rajalingam_Updated_080626.docx"
+      },
+      {
+        "type": "authenticated_linkedin_certifications",
+        "url": "https://www.linkedin.com/in/vinoth-rajalingam-67358048/details/certifications/",
+        "evidence": "Exact Cognizant/Plano profile read in authenticated Chrome by the parent agent on September 30, 2026."
+      },
+      {
+        "type": "public_credential_link",
+        "url": "https://bcert.me/sfqshmank",
+        "access": "BadgeCert page requires JavaScript; public shell loaded."
+      }
+    ],
+    "note": "Issue and expiry dates and public credential link were verified in the authenticated LinkedIn certification record. Badge artwork is from the provided resume; BadgeCert requires an interactive browser to inspect the public certificate.",
+    "url": "https://bcert.me/sfqshmank",
+    "image": "assets/badges/quadient-scaler.png",
+    "kind": "Cloud & Enterprise CCM",
+    "link_label": "View credential",
+    "date": "Issued Sep 2023",
+    "display_note": "Expires Sep 2028"
+  },
+  {
+    "id": "google-5336323",
+    "title": "Introduction to Large Language Models",
+    "issuer": "Google Cloud",
+    "issued": "2023-09-26",
+    "expires": null,
+    "credentialId": "5336323",
+    "credentialUrl": "https://partner.skills.google/public_profiles/8fe06553-5551-4e39-92ce-7a8e3f7cdde9/badges/5336323",
+    "badgeImageUrl": "https://cdn.qwiklabs.com/FJI6LwwTVexdn%2BIw%2BUYGmu5%2Fvj%2BXJx6luaVrex%2Fus8Y%3D",
+    "category": "Google",
+    "verificationStatus": "verified_public_profile_award",
+    "sources": [
+      {
+        "type": "provided_resume",
+        "path": "Resume_Vinoth_Rajalingam_Updated_080626.docx"
+      },
+      {
+        "type": "google_public_profile",
+        "url": "https://partner.skills.google/public_profiles/8fe06553-5551-4e39-92ce-7a8e3f7cdde9",
+        "evidence": "Vinoth Rajalingam; Introduction to Large Language Models; Earned Sep 26, 2023 EDT"
+      },
+      {
+        "type": "authenticated_linkedin_certifications",
+        "url": "https://www.linkedin.com/in/vinoth-rajalingam-67358048/details/certifications/",
+        "evidence": "Exact Cognizant/Plano profile read in authenticated Chrome by the parent agent on September 30, 2026."
+      }
+    ],
+    "note": "Earned Google course or skill badge. This does not imply a professional Google Cloud certification.",
+    "exactSourceTitle": "Introduction to Large Language Models",
+    "courseStatus": null,
+    "relatedAwards": [
+      {
+        "title": "Introduction to Large Language Models",
+        "issuer": "Google Cloud",
+        "issued": "Aug 2023",
+        "credentialId": "4927128",
+        "credentialUrl": "https://www.cloudskillsboost.google/public_profiles/50197c5c-faf3-42e0-b922-0b2b67eb7ad1/badges/4927128",
+        "verificationStatus": "verified_public_award_and_linkedin_date",
+        "source": {
+          "type": "google_public_award",
+          "url": "https://www.cloudskillsboost.google/public_profiles/50197c5c-faf3-42e0-b922-0b2b67eb7ad1/badges/4927128",
+          "evidence": "Introduction to Large Language Models; public page states Vinoth Rajalingam has earned this award."
+        },
+        "note": "Separately earned award on the personal Google Skills profile; partner-profile award above is a different award/date."
+      }
+    ],
+    "url": "https://partner.skills.google/public_profiles/8fe06553-5551-4e39-92ce-7a8e3f7cdde9/badges/5336323",
+    "image": "assets/badges/google-5336323.png",
+    "kind": "Google Cloud Learning",
+    "link_label": "View credential",
+    "date": "Issued Sep 2023",
+    "display_note": ""
+  },
+  {
+    "id": "google-5335992",
+    "title": "Introduction to Generative AI",
+    "issuer": "Google Cloud",
+    "issued": "2023-09-26",
+    "expires": null,
+    "credentialId": "5335992",
+    "credentialUrl": "https://partner.skills.google/public_profiles/8fe06553-5551-4e39-92ce-7a8e3f7cdde9/badges/5335992",
+    "badgeImageUrl": "https://cdn.qwiklabs.com/tRJvj3pQZwIr1Gy8xNVDW2fKbua0cesYgY6Jn%2FDe%2BcM%3D",
+    "category": "Google",
+    "verificationStatus": "verified_public_profile_award",
+    "sources": [
+      {
+        "type": "google_public_profile",
+        "url": "https://partner.skills.google/public_profiles/8fe06553-5551-4e39-92ce-7a8e3f7cdde9",
+        "evidence": "Vinoth Rajalingam; Introduction to Generative AI; Earned Sep 26, 2023 EDT"
+      }
+    ],
+    "note": "Earned Google course or skill badge. This does not imply a professional Google Cloud certification.",
+    "exactSourceTitle": "Introduction to Generative AI",
+    "courseStatus": null,
+    "url": "https://partner.skills.google/public_profiles/8fe06553-5551-4e39-92ce-7a8e3f7cdde9/badges/5335992",
+    "image": "assets/badges/google-5335992.png",
+    "kind": "Google Cloud Learning",
+    "link_label": "View credential",
+    "date": "Issued Sep 2023",
+    "display_note": ""
+  },
+  {
+    "id": "quadient-designer",
+    "title": "Inspire Designer Basic",
+    "issuer": "Quadient",
+    "issued": "2023-08",
+    "expires": "2028-08",
+    "credentialId": "E1B76FB00D1649488B46391EA0DE9BA7",
+    "credentialUrl": "https://bcert.me/sraecrsyw",
+    "badgeImageUrl": null,
+    "category": "Enterprise",
+    "verificationStatus": "verified_authenticated_linkedin_record",
+    "sources": [
+      {
+        "type": "provided_resume",
+        "path": "Resume_Vinoth_Rajalingam_Updated_080626.docx"
+      },
+      {
+        "type": "authenticated_linkedin_certifications",
+        "url": "https://www.linkedin.com/in/vinoth-rajalingam-67358048/details/certifications/",
+        "evidence": "Exact Cognizant/Plano profile read in authenticated Chrome by the parent agent on September 30, 2026."
+      },
+      {
+        "type": "public_credential_link",
+        "url": "https://bcert.me/sraecrsyw",
+        "access": "BadgeCert page requires JavaScript; public shell loaded."
+      }
+    ],
+    "note": "Issue and expiry dates and public credential link were verified in the authenticated LinkedIn certification record. Badge artwork is from the provided resume; BadgeCert requires an interactive browser to inspect the public certificate.",
+    "url": "https://bcert.me/sraecrsyw",
+    "image": "assets/badges/quadient-designer.png",
+    "kind": "Cloud & Enterprise CCM",
+    "link_label": "View credential",
+    "date": "Issued Aug 2023",
+    "display_note": "Expires Aug 2028"
+  },
+  {
+    "id": "coursera-genai",
+    "title": "Introduction to Generative AI",
+    "issuer": "Google Cloud via Coursera",
+    "issued": "2023-08-28",
+    "expires": null,
+    "credentialId": "KZP8DQZPHEBH",
+    "credentialUrl": "https://www.coursera.org/account/accomplishments/verify/KZP8DQZPHEBH",
+    "badgeImageUrl": "https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~KZP8DQZPHEBH/CERTIFICATE_LANDING_PAGE~KZP8DQZPHEBH.jpeg",
+    "category": "Google",
+    "verificationStatus": "verified_public_certificate",
+    "sources": [
+      {
+        "type": "provided_resume",
+        "path": "Resume_Vinoth_Rajalingam_Updated_080626.docx"
+      },
+      {
+        "type": "coursera_certificate",
+        "url": "https://www.coursera.org/account/accomplishments/verify/KZP8DQZPHEBH",
+        "evidence": "Completed by Vinoth Rajalingam; August 28, 2023; account verified by Coursera."
+      }
+    ],
+    "note": "Distinct Coursera course completion; public certificate verifies the recipient and completion date.",
+    "url": "https://www.coursera.org/account/accomplishments/verify/KZP8DQZPHEBH",
+    "image": null,
+    "kind": "Google Cloud Learning",
+    "link_label": "View credential",
+    "date": "Issued Aug 2023",
+    "display_note": ""
+  },
+  {
+    "id": "smartcomm-author",
+    "title": "SmartCOMM - Document Template Author Certification",
+    "issuer": "Smart Communications",
+    "issued": "2020-12",
+    "expires": "2022-12",
+    "credentialId": "65534555",
+    "credentialUrl": "https://www.linkedin.com/in/vinoth-rajalingam-67358048/details/certifications/",
+    "badgeImageUrl": null,
+    "category": "Enterprise",
+    "verificationStatus": "verified_authenticated_linkedin_record",
+    "sources": [
+      {
+        "type": "provided_resume",
+        "path": "Resume_Vinoth_Rajalingam_Updated_080626.docx"
+      },
+      {
+        "type": "authenticated_linkedin_certifications",
+        "url": "https://www.linkedin.com/in/vinoth-rajalingam-67358048/details/certifications/",
+        "evidence": "Exact Cognizant/Plano profile read in authenticated Chrome by the parent agent on September 30, 2026."
+      }
+    ],
+    "note": "Issued December 2020; expired December 2022, per authenticated LinkedIn certification details. A public issuer verification link was not available.",
+    "credentialLinkLabel": "LinkedIn record",
+    "url": "https://www.linkedin.com/in/vinoth-rajalingam-67358048/details/certifications/",
+    "image": "assets/badges/smartcomm-author.png",
+    "kind": "Cloud & Enterprise CCM",
+    "link_label": "LinkedIn record",
+    "date": "Issued Dec 2020",
+    "display_note": "Expired Dec 2022"
+  },
+  {
+    "id": "aws-solutions-architect",
+    "title": "AWS Certified Solutions Architect \u2013 Associate",
+    "issuer": "Amazon Web Services Training and Certification",
+    "issued": "2020-10",
+    "expires": "2023-10",
+    "credentialId": "81014020-6d55-457f-b4da-db1933ac5814",
+    "credentialUrl": "https://www.credly.com/badges/81014020-6d55-457f-b4da-db1933ac5814",
+    "badgeImageUrl": "https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/linkedin_thumb_image.png",
+    "category": "Enterprise",
+    "verificationStatus": "verified_public_expired_badge",
+    "sources": [
+      {
+        "type": "provided_resume",
+        "path": "Resume_Vinoth_Rajalingam_Updated_080626.docx"
+      },
+      {
+        "type": "authenticated_linkedin_certifications",
+        "url": "https://www.linkedin.com/in/vinoth-rajalingam-67358048/details/certifications/",
+        "evidence": "Exact Cognizant/Plano profile read in authenticated Chrome by the parent agent on September 30, 2026."
+      },
+      {
+        "type": "credly_badge",
+        "url": "https://www.credly.com/badges/81014020-6d55-457f-b4da-db1933ac5814",
+        "evidence": "AWS Certified Solutions Architect \u2013 Associate (Expired) was issued by Amazon Web Services Training and Certification to Vinoth Rajalingam."
+      }
+    ],
+    "note": "Credly explicitly labels this credential expired. Issue and expiry months were verified in the authenticated LinkedIn certification record.",
+    "url": "https://www.credly.com/badges/81014020-6d55-457f-b4da-db1933ac5814",
+    "image": "assets/badges/aws-solutions-architect.png",
+    "kind": "Cloud & Enterprise CCM",
+    "link_label": "View credential",
+    "date": "Issued Oct 2020",
+    "display_note": "Expired Oct 2023"
+  }
+]

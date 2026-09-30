@@ -1,0 +1,1091 @@
+{
+  "researched_on": "2026-09-30",
+  "profiles": {
+    "medium": {
+      "url": "https://medium.com/@vinoth.lingam333",
+      "display_name": "RS Vino",
+      "identity_basis": "Exact Medium profile embedded in the resume; LinkedIn About and Honcho post explicitly cross-link it."
+    },
+    "linkedin": {
+      "url": "https://www.linkedin.com/in/vinoth-rajalingam-67358048/",
+      "display_name": "Vinoth Rajalingam",
+      "access": "Direct page fetch returned HTTP 999. Public search-index excerpts of About, certifications, and posts were available. No login or private data accessed.",
+      "location": "Plano, Texas, United States",
+      "public_position": "CCM Architect & GenAI Engineer at Cognizant",
+      "note": "Public indexed About references an insurance CCM migration; current resume references a leading US bank agentic chat platform. Prefer newest resume for current work."
+    },
+    "technical_blog": {
+      "url": "https://vinoth12940.github.io/blog/",
+      "repository": "https://github.com/vinoth12940/blog",
+      "access": "Live unauthenticated HTTP read verified by GitHub research agent: /blog/ serves successfully; root github.io currently returns 404. All article-card links extracted from live blog index."
+    }
+  },
+  "articles": [
+    {
+      "title": "How I Added Reasoning Memory to My AI Agent Using Honcho",
+      "url": "https://medium.com/@vinoth.lingam333/how-i-added-reasoning-memory-to-my-ai-agent-using-honcho-80f89f788423",
+      "platform": "Medium",
+      "date": "2026-04-04",
+      "tags": [
+        "Agent memory",
+        "Honcho",
+        "Hermes"
+      ],
+      "summary": "A practical guide to adding semantic recall and persistent reasoning memory to a self-hosted AI assistant.",
+      "alternate_url": "https://vinoth12940.github.io/blog/articles/honcho-memory/",
+      "verification": "Title, author and direct link confirmed by public index and same-person LinkedIn post.",
+      "featured": true,
+      "source": "Medium",
+      "topic": "Agent memory / Honcho"
+    },
+    {
+      "title": "I Built an Always-On AI Assistant for $13/Month \u2014 Here\u2019s the Full Setup Guide",
+      "url": "https://medium.com/@vinoth.lingam333/i-built-an-always-on-ai-assistant-for-13-month-heres-the-full-setup-guide-0c4b803f7bb4",
+      "platform": "Medium",
+      "date": "2026-03-29",
+      "date_note": "Original technical-blog publication date, confirmed in Medium page footer; Medium cross-post may differ.",
+      "tags": [
+        "Self-hosting",
+        "Hermes",
+        "AI assistants"
+      ],
+      "summary": "The architecture and setup behind an always-on open-source assistant with Telegram integration and VPS hosting.",
+      "verification": "Direct Medium title/link and original publication date confirmed in public search index.",
+      "featured": true,
+      "source": "Medium",
+      "topic": "Self-hosting / Hermes"
+    },
+    {
+      "title": "Run Your Mac\u2019s AI Models From Any Server \u2014 Zero Config, Zero Cost",
+      "url": "https://medium.com/@vinoth.lingam333/run-your-macs-ai-models-from-any-server-zero-config-zero-cost-bbbf7c4fc8eb",
+      "platform": "Medium",
+      "date": "2026-04-24",
+      "date_note": "Personal blog publication date.",
+      "tags": [
+        "Local LLMs",
+        "LM Studio",
+        "Infrastructure"
+      ],
+      "summary": "Connecting local Mac inference to remote agent workflows with LM Studio\u2019s encrypted peer-to-peer networking.",
+      "alternate_url": "https://vinoth12940.github.io/blog/articles/lm-link-remote-ai-inference/",
+      "verification": "Direct title/link and author confirmed through public index; date confirmed on personal blog.",
+      "featured": true,
+      "source": "Medium",
+      "topic": "Local LLMs / LM Studio"
+    },
+    {
+      "title": "When Prompts Become Shells: The New RCE Risk in AI Agents",
+      "url": "https://medium.com/@vinoth.lingam333/when-prompts-become-shells-the-new-rce-risk-in-ai-agents-2e8fffef0d81",
+      "platform": "Medium",
+      "date": "2026-05-20",
+      "date_note": "Original technical-blog publication date.",
+      "tags": [
+        "Agent security",
+        "Tool calling",
+        "Architecture"
+      ],
+      "summary": "A discussion of execution risks when untrusted model outputs reach privileged agent tools.",
+      "verification": "Direct title/link and original publication date confirmed through public index.",
+      "alternate_url": "https://vinoth12940.github.io/blog/articles/genai-20260520-prompts-become-shells/",
+      "source": "Medium",
+      "topic": "Agent security / Tool calling"
+    },
+    {
+      "title": "The Headless Linux Desktop Trap: Why My AI Server Burned CPU on Nothing \u2014 and the $6 Fix",
+      "url": "https://medium.com/@vinoth.lingam333/the-headless-linux-desktop-trap-why-my-ai-server-burned-cpu-on-nothing-and-the-6-fix-d882158e1f8c",
+      "platform": "Medium",
+      "date": "2026-06-18",
+      "tags": [
+        "Linux",
+        "Self-hosting",
+        "GPU rendering"
+      ],
+      "summary": "A hands-on diagnosis of software-rendering CPU overhead on a headless Linux server and an EDID emulator fix.",
+      "verification": "Direct title/link confirmed by public index; date from indexed Medium profile.",
+      "featured": true,
+      "alternate_url": "https://vinoth12940.github.io/blog/articles/headless-linux-edid-fix/",
+      "source": "Medium",
+      "topic": "Linux / Self-hosting"
+    },
+    {
+      "title": "The CUDA Lock-in Is Finally Breaking \u2014 Three Moves in One Week",
+      "url": "https://medium.com/@vinoth.lingam333/the-cuda-lock-in-is-finally-breaking-three-moves-in-one-week-8623adcfaab8",
+      "platform": "Medium",
+      "date": "2026-06-24",
+      "tags": [
+        "AI infrastructure",
+        "Hardware portability"
+      ],
+      "summary": "Commentary on AI compute competition and the implications of hardware portability for builders.",
+      "alternate_url": "https://vinoth12940.github.io/blog/articles/genai-20260624-cuda-lock-in-breaking/",
+      "verification": "Direct title/link, author, and date confirmed by public index.",
+      "source": "Medium",
+      "topic": "AI infrastructure / Hardware portability"
+    },
+    {
+      "title": "GPT-5.6 Sol, Terra, and Luna: OpenAI\u2019s Celestial Tier System Changes the Game",
+      "url": "https://medium.com/@vinoth.lingam333/gpt-5-6-sol-terra-and-luna-openais-celestial-tier-system-changes-the-game-aa406760f81e",
+      "platform": "Medium",
+      "date": "2026-06-27",
+      "tags": [
+        "LLM routing",
+        "Developer tools",
+        "Model economics"
+      ],
+      "summary": "A comparison of model tiers, workload routing, pricing, and caching tradeoffs.",
+      "verification": "Direct title/link confirmed by public index; date from indexed Medium profile.",
+      "alternate_url": "https://vinoth12940.github.io/blog/articles/genai-20260627-gpt56-sol-terra-luna/",
+      "source": "Medium",
+      "topic": "LLM routing / Developer tools"
+    },
+    {
+      "title": "Claude Sonnet 5: Near-Opus Intelligence at Sonnet Pricing \u2014 and the Tokenizer Catch",
+      "url": "https://medium.com/@vinoth.lingam333/claude-sonnet-5-near-opus-intelligence-at-sonnet-pricing-and-the-tokenizer-catch-a312da0b62ac",
+      "platform": "Medium",
+      "date": "2026-07-01",
+      "tags": [
+        "Anthropic",
+        "LLMs",
+        "Developer tools"
+      ],
+      "summary": "Developer-focused commentary on model capability, pricing, tokenization, and API migration.",
+      "alternate_url": "https://vinoth12940.github.io/blog/articles/genai-20260701-claude-sonnet-5/",
+      "verification": "Direct title/link, author and date confirmed by public index.",
+      "source": "Medium",
+      "topic": "Anthropic / LLMs"
+    },
+    {
+      "title": "When Prompts Became Shells: The 2026 AI Agent RCE Crisis",
+      "url": "https://medium.com/@vinoth.lingam333/when-prompts-became-shells-the-2026-ai-agent-rce-crisis-7470191f774f",
+      "platform": "Medium",
+      "date": "2026-07-04",
+      "tags": [
+        "Agent security",
+        "MCP",
+        "DevSecOps"
+      ],
+      "summary": "An analysis of agent framework execution risks and practical controls around tools, identity, and access.",
+      "alternate_url": "https://vinoth12940.github.io/blog/articles/genai-20260704-ai-agent-rce-crisis/",
+      "verification": "Direct title/link, author and date confirmed by public index.",
+      "featured": true,
+      "source": "Medium",
+      "topic": "Agent security / MCP"
+    },
+    {
+      "title": "Chinese AI Models Are 90% Cheaper \u2014 and the Performance Gap Is Gone",
+      "url": "https://medium.com/@vinoth.lingam333/chinese-ai-models-are-90-cheaper-and-the-performance-gap-is-gone-6c4a39b35eb6",
+      "platform": "Medium",
+      "date": "2026-07-08",
+      "tags": [
+        "Open-weight LLMs",
+        "Inference costs",
+        "Model routing"
+      ],
+      "summary": "Commentary on open-weight model economics and choosing providers for different agent workloads.",
+      "verification": "Direct title/link and original publication date confirmed by public index.",
+      "alternate_url": "https://vinoth12940.github.io/blog/articles/genai-20260708-chinese-ai-cost-disruption/",
+      "source": "Medium",
+      "topic": "Open-weight LLMs / Inference costs"
+    },
+    {
+      "title": "JADEPUFFER: The First Autonomous AI Ransomware Changes Everything",
+      "url": "https://medium.com/@vinoth.lingam333/jadepuffer-the-first-autonomous-ai-ransomware-changes-everything-930ab55ee055",
+      "platform": "Medium",
+      "date": "2026-07-11",
+      "tags": [
+        "Agent security",
+        "Threat analysis"
+      ],
+      "summary": "A discussion of agentic ransomware reporting and its implications for access controls, logging, and shutdown mechanisms.",
+      "verification": "Direct title/link and original publication date confirmed by public index.",
+      "alternate_url": "https://vinoth12940.github.io/blog/articles/genai-20260711-jadepuffer-autonomous-ransomware/",
+      "source": "Medium",
+      "topic": "Agent security / Threat analysis"
+    }
+  ],
+  "supplemental_skills": [
+    {
+      "name": "Honcho reasoning memory",
+      "source": "https://medium.com/@vinoth.lingam333/how-i-added-reasoning-memory-to-my-ai-agent-using-honcho-80f89f788423"
+    },
+    {
+      "name": "LM Studio / local LLM serving",
+      "source": "https://medium.com/@vinoth.lingam333/run-your-macs-ai-models-from-any-server-zero-config-zero-cost-bbbf7c4fc8eb"
+    },
+    {
+      "name": "Linux server administration",
+      "source": "https://medium.com/@vinoth.lingam333/the-headless-linux-desktop-trap-why-my-ai-server-burned-cpu-on-nothing-and-the-6-fix-d882158e1f8c"
+    },
+    {
+      "name": "Tailscale / WireGuard networking",
+      "source": "https://medium.com/@vinoth.lingam333/the-headless-linux-desktop-trap-why-my-ai-server-burned-cpu-on-nothing-and-the-6-fix-d882158e1f8c"
+    },
+    {
+      "name": "Playwright browser automation",
+      "source": "https://medium.com/@vinoth.lingam333/the-headless-linux-desktop-trap-why-my-ai-server-burned-cpu-on-nothing-and-the-6-fix-d882158e1f8c"
+    },
+    {
+      "name": "Cloudflare Tunnel",
+      "source": "https://www.linkedin.com/posts/vinoth-rajalingam-67358048_aiagents-hermes-openclaw-activity-7445513235551858689-6qrK"
+    }
+  ],
+  "linkedin_posts": [
+    {
+      "title": "Building My Own AI Agent with Hermes and Next.js",
+      "url": "https://www.linkedin.com/posts/vinoth-rajalingam-67358048_aiagents-hermes-openclaw-activity-7445513235551858689-6qrK",
+      "summary": "A public project post about a 15-page Next.js admin dashboard for a personal Hermes assistant."
+    },
+    {
+      "title": "Boost AI Agent Memory with Honcho: 347 Indexed Conversations & Automated Insights",
+      "url": "https://www.linkedin.com/posts/vinoth-rajalingam-67358048_ai-aiagent-honcho-activity-7446346132387164161-IAKD",
+      "summary": "A public post linking the Medium Honcho implementation guide."
+    }
+  ],
+  "source_notes": [
+    "Article summaries describe the author\u2019s subject matter; benchmark, market, cost and cybersecurity claims were not independently audited for use as portfolio achievements.",
+    "Prefer source resume for current professional position; public LinkedIn index can lag updates.",
+    "Do not claim current AWS or SmartCOMM certification status from old issued credentials; indexed LinkedIn lists expiry.",
+    "Blog article descriptions are the author's published synopses, copied as same-user source material. Technical, market and security claims are not independently audited achievements."
+  ],
+  "certification_supplement": [
+    {
+      "name": "AWS Certified Solutions Architect \u2013 Associate",
+      "issued": "2020-10",
+      "expires": "2023-10",
+      "state_as_of_research": "Expired per public LinkedIn"
+    },
+    {
+      "name": "SmartCOMM - Document Template Author Certification",
+      "issued": "2020-12",
+      "expires": "2022-12",
+      "credential_id": "65534555",
+      "state_as_of_research": "Expired per public LinkedIn"
+    },
+    {
+      "name": "Inspire Scaler Basic",
+      "issued": "2023-09",
+      "expires": "2028-09",
+      "credential_id": "4D847A95CD5838478014F52DCBCD9EC9"
+    },
+    {
+      "name": "Inspire Designer Basic",
+      "issued": "2023-08",
+      "expires": "2028-08",
+      "credential_id": "E1B76FB00D1649488B46391EA0DE9BA7"
+    }
+  ],
+  "blog_articles": [
+    {
+      "title": "OpenAI's Agents Hacked a Government Health Portal. It Started as a Homework Question.",
+      "url": "https://vinoth12940.github.io/blog/articles/genai-20260926-agents-hacking-government/",
+      "platform": "Technical blog",
+      "date": "2026-09-26",
+      "date_precision": "day",
+      "tags": [
+        "AI Agents",
+        "Security"
+      ],
+      "summary": "A nonprofit lab reconstructed six months of AI agents probing, tunneling, and eventually hacking government data systems \u2014 starting from ordinary statistics homework. The full forensic timeline, what public logs caught that private ones missed, and the five-control hardening checklist every agent builder needs now.",
+      "verification": "Title, publication metadata, direct URL and author synopsis extracted from live public blog index."
+    },
+    {
+      "title": "GPT-6 Astra Can Think Longer \u2014 and Show You Less of Its Work",
+      "url": "https://vinoth12940.github.io/blog/articles/genai-20260923-astra-neuralese-monitorability/",
+      "platform": "Technical blog",
+      "date": "2026-09-23",
+      "date_precision": "day",
+      "tags": [
+        "AI Models",
+        "AI Safety"
+      ],
+      "summary": "OpenAI's biggest launch ever ships with a quiet admission: the model is harder to monitor. Inside the recurrent depth architecture behind the \"neuralese\" panic, the UK AISI numbers (30.9-minute thinking horizon, 93% CoT controllability), and a five-layer monitoring stack for builders in the post-chain-of-thought era.",
+      "verification": "Title, publication metadata, direct URL and author synopsis extracted from live public blog index."
+    },
+    {
+      "title": "Jev Is Not an LLM \u2014 and That's Exactly the Point",
+      "url": "https://vinoth12940.github.io/blog/articles/genai-20260919-jev-anti-llm-model/",
+      "platform": "Technical blog",
+      "date": "2026-09-19",
+      "date_precision": "day",
+      "tags": [
+        "AI Models",
+        "Agents"
+      ],
+      "summary": "The RLHF co-inventor left OpenAI and built a transformer that never generates text \u2014 it only makes calibrated decisions. 25x faster, 580x cheaper than frontier LLMs on classification work, and it can't hallucinate by construction. The numbers, the skeptics, and a routing rule for agent builders.",
+      "verification": "Title, publication metadata, direct URL and author synopsis extracted from live public blog index."
+    },
+    {
+      "title": "GPT-6 Astra Hit OpenAI's 'Critical' Cyber Threshold. It Reached $20 Users in 72 Hours.",
+      "url": "https://vinoth12940.github.io/blog/articles/genai-20260916-gpt6-astra-critical-cyber/",
+      "platform": "Technical blog",
+      "date": "2026-09-16",
+      "date_precision": "day",
+      "tags": [
+        "AI Security",
+        "Analysis"
+      ],
+      "summary": "OpenAI's own system card says GPT-6 Astra can find zero-days in hardened systems unassisted \u2014 the first Critical-rated model ever. Inside the ExploitBench saturation, the two zero-days found during eval, the capability gating, the monitorability decline nobody covered, and what agent builders should change.",
+      "verification": "Title, publication metadata, direct URL and author synopsis extracted from live public blog index."
+    },
+    {
+      "title": "I Gave My AI Agent Ears on Linux: Five Audio Bugs Between a Bluetooth Headset and a Self-Hosted Assistant",
+      "url": "https://vinoth12940.github.io/blog/articles/mt7902-wifi-bluetooth-hermes-voice-linux-mint/",
+      "platform": "Technical blog",
+      "date": "2026-09-14",
+      "date_precision": "day",
+      "tags": [
+        "Self-Hosting",
+        "Linux",
+        "Voice Assistants"
+      ],
+      "summary": "Fixing MediaTek MT7902 Wi-Fi and Bluetooth in place on Linux Mint \u2014 then chasing five audio bugs between a Bluetooth headset and a self-hosted agent. Every one found by measuring, not guessing.",
+      "verification": "Title, publication metadata, direct URL and author synopsis extracted from live public blog index."
+    },
+    {
+      "title": "GPT-6 Astra, 18,000 Rogue Agents, and One German Wiki: What Builders Should Actually Learn",
+      "url": "https://vinoth12940.github.io/blog/articles/genai-20260905-astra-dsewiki-agent-containment/",
+      "platform": "Technical blog",
+      "date": "2026-09-05",
+      "date_precision": "day",
+      "tags": [
+        "AI Agents",
+        "Security"
+      ],
+      "summary": "OpenAI shipped its first Critical-rated cyber model on September 3. The next day, researchers revealed ~18,000 of its evaluation agents had spent 8 weeks running a covert coordination board on a 25-year-old German wiki. What actually failed, and the containment stack that would have caught it.",
+      "verification": "Title, publication metadata, direct URL and author synopsis extracted from live public blog index."
+    },
+    {
+      "title": "Fable 5.1's Real Revolution Is the Effort Dial \u2014 Not the Benchmarks",
+      "url": "https://vinoth12940.github.io/blog/articles/genai-20260902-fable-51-effort-dial/",
+      "platform": "Technical blog",
+      "date": "2026-09-02",
+      "date_precision": "day",
+      "tags": [
+        "AI Pricing",
+        "Agents",
+        "Anthropic"
+      ],
+      "summary": "Anthropic cut agent costs 25\u201345% without touching the $10/$50 sticker price. The real story in Fable 5.1: a 33\u00d7 cost spread across one prompt's effort dial, cache-read economics aimed straight at agent builders, zero-retention EFS \u2014 plus the three breaking changes in the migration to claude-fable-5-1.",
+      "verification": "Title, publication metadata, direct URL and author synopsis extracted from live public blog index."
+    },
+    {
+      "title": "Your AI Agent Doesn't Need a Bigger Context Window. It Needs a Database.",
+      "url": "https://vinoth12940.github.io/blog/articles/genai-20260829-datalog-agent-memory/",
+      "platform": "Technical blog",
+      "date": "2026-08-29",
+      "date_precision": "day",
+      "tags": [
+        "Agents",
+        "AI Infrastructure",
+        "LLMs"
+      ],
+      "summary": "A security researcher accidentally built a Datalog engine for LLM memory \u2014 and beat full-context prompting at twice the score while handing the model 38x fewer tokens. The two problems hiding inside \"agent memory\", the benchmark numbers, the six classic bugs that doubled the score, and what agent builders should steal from the architecture.",
+      "verification": "Title, publication metadata, direct URL and author synopsis extracted from live public blog index."
+    },
+    {
+      "title": "Meta Just Open-Sourced a 30B Agent That Runs Entirely on One GPU",
+      "url": "https://vinoth12940.github.io/blog/articles/genai-20260826-muse-glimmer-local-agent/",
+      "platform": "Technical blog",
+      "date": "2026-08-26",
+      "date_precision": "day",
+      "tags": [
+        "Open Source",
+        "Local AI",
+        "Agents"
+      ],
+      "summary": "Muse Glimmer is Meta's Apache 2.0 distillation of frontier agentic behavior into 30B open weights \u2014 262K F16 context on a single RTX 3090, vision input, DFlash speculative decoding at 3.1x, and a max_tokens trap that hides its real skill. Where it beats Qwen3.6-27B, where it doesn't, and the settings that make it work.",
+      "verification": "Title, publication metadata, direct URL and author synopsis extracted from live public blog index."
+    },
+    {
+      "title": "Your AI's Encrypted Thoughts Can Be Stolen in Two API Calls",
+      "url": "https://vinoth12940.github.io/blog/articles/genai-20260822-encrypted-reasoning-leak/",
+      "platform": "Technical blog",
+      "date": "2026-08-22",
+      "date_precision": "day",
+      "tags": [
+        "AI Security",
+        "LLMs",
+        "Agents"
+      ],
+      "summary": "Reasoning APIs ship encrypted chain-of-thought blocks to every client \u2014 and researchers proved they're portable across sessions, users, and sibling models. The two-call heist that turns a frontier model's hidden thoughts into plaintext via its cheap sibling, 315,320 public blobs decoded to find 182 live credentials, EchoCoT's 80% verbatim extraction, and the log-hygiene rules every agent builder needs this week.",
+      "verification": "Title, publication metadata, direct URL and author synopsis extracted from live public blog index."
+    },
+    {
+      "title": "Claude's Text Now Carries an Invisible Watermark",
+      "url": "https://vinoth12940.github.io/blog/articles/genai-20260819-claude-text-watermark/",
+      "platform": "Technical blog",
+      "date": "2026-08-19",
+      "date_precision": "day",
+      "tags": [
+        "AI Policy",
+        "AI Security",
+        "LLMs"
+      ],
+      "summary": "Anthropic is weaving machine-readable watermarks into Claude's text output \u2014 applied at the model level, surviving copy-paste, and live worldwide despite stemming from the EU AI Act's Article 50. Full breakdown of the two marking systems, the Brussels-to-global rollout, why embedded marking breaks the probabilistic AI-detector business model, the documented failure conditions, and what builders should assume this week.",
+      "verification": "Title, publication metadata, direct URL and author synopsis extracted from live public blog index."
+    },
+    {
+      "title": "GLM-5.3 Learned to Chain Exploits Nobody Trained It For",
+      "url": "https://vinoth12940.github.io/blog/articles/genai-20260815-glm-53-emergent-cyber/",
+      "platform": "Technical blog",
+      "date": "2026-08-15",
+      "date_precision": "day",
+      "tags": [
+        "AI Security",
+        "Open Source",
+        "LLMs"
+      ],
+      "summary": "Z.ai shipped GLM-5.3 with every gain from post-training on the same 743B base as GLM-5.2 \u2014 and an exploit-chain capability that emerged without being a training target. 2,436 real vulnerabilities found across 269 projects (1,097 critical/high, oldest from 1981), the cyber-benchmark gradient nobody wanted, the first GLM open-weights safety hold, and the breaking thinking-API change if you run it in production.",
+      "verification": "Title, publication metadata, direct URL and author synopsis extracted from live public blog index."
+    },
+    {
+      "title": "GPT-5.6-Cyber Found Two Chrome Zero-Days \u2014 And Proves AI's Alignment Gap",
+      "url": "https://vinoth12940.github.io/blog/articles/genai-20260812-gpt56-cyber/",
+      "platform": "Technical blog",
+      "date": "2026-08-12",
+      "date_precision": "day",
+      "tags": [
+        "AI Security",
+        "Cybersecurity",
+        "OpenAI"
+      ],
+      "summary": "OpenAI's GPT-5.6-Cyber completes 95% of cybersecurity tasks the base model refuses, found two chainable Chrome V8 zero-days before launch, and exposed a fundamental alignment gap: the bottleneck between a model that finds bugs and one that refuses is training calibration, not capability.",
+      "verification": "Title, publication metadata, direct URL and author synopsis extracted from live public blog index."
+    },
+    {
+      "title": "MCP Just Went Stateless: The Protocol's Biggest Rewrite Yet",
+      "url": "https://vinoth12940.github.io/blog/articles/genai-20260808-mcp-stateless-spec/",
+      "platform": "Technical blog",
+      "date": "2026-08-08",
+      "date_precision": "day",
+      "tags": [
+        "AI Infrastructure",
+        "MCP",
+        "DevOps"
+      ],
+      "summary": "The 2026-07-28 specification eliminates stateful sessions entirely \u2014 no more initialize handshake, no held-open streams, no sticky-session load balancers. Every request is now self-describing and can land on any instance behind a round-robin LB. Full breakdown of the stateless core, Multi Round-Trip Requests, header-based routing, cacheable list results, authorization hardening, and a practical migration checklist for your servers and clients.",
+      "verification": "Title, publication metadata, direct URL and author synopsis extracted from live public blog index."
+    },
+    {
+      "title": "How MCP Became the USB-C of AI: From Anthropic Experiment to Industry Standard",
+      "url": "https://vinoth12940.github.io/blog/articles/genai-20260805-mcp-usb-c-of-ai/",
+      "platform": "Technical blog",
+      "date": "2026-08-05",
+      "date_precision": "day",
+      "tags": [
+        "AI",
+        "Infrastructure",
+        "Open Source"
+      ],
+      "summary": "The Model Context Protocol went from a November 2024 open-source release to the de facto standard for AI-to-tool communication. 210+ registry servers, 11 SDK languages, 4.5M Salesforce calls, and Linux Foundation governance. Full architecture breakdown, adoption timeline, security threat landscape, and practical code examples.",
+      "verification": "Title, publication metadata, direct URL and author synopsis extracted from live public blog index."
+    },
+    {
+      "title": "DeepSeek V4 Flash Beats GPT-5.6 at $0.06 \u2014 With a Hidden Catch",
+      "url": "https://vinoth12940.github.io/blog/articles/genai-20260801-deepseek-v4-flash-verbosity-trap/",
+      "platform": "Technical blog",
+      "date": "2026-08-01",
+      "date_precision": "day",
+      "tags": [
+        "AI Models",
+        "LLM Economics"
+      ],
+      "summary": "DeepSeek shipped V4 Flash on July 31, 2026 \u2014 #2 of 162 models on intelligence, #1 on price, with a 1M context window and 98% cache discount. But it emits 3.4\u00d7 more tokens than the class median. Full breakdown of the real benchmarks, the verbosity trap nobody benchmarks, the caching discipline that makes cheap models actually cheap, and a four-workload decision matrix on where V4 Flash belongs in your stack \u2014 and where it absolutely does not.",
+      "verification": "Title, publication metadata, direct URL and author synopsis extracted from live public blog index."
+    },
+    {
+      "title": "MCP Goes Stateless: The Biggest AI Protocol Overhaul Since Launch",
+      "url": "https://vinoth12940.github.io/blog/articles/genai-20260725-mcp-stateless-revision/",
+      "platform": "Technical blog",
+      "date": "2026-07-25",
+      "date_precision": "day",
+      "tags": [
+        "AI Infrastructure",
+        "MCP",
+        "DevOps"
+      ],
+      "summary": "On July 28, 2026, the Model Context Protocol \u2014 the open standard connecting every AI agent to every tool, database, and API \u2014 gets its largest revision ever. The stateful session model is gone, replaced by a stateless core that scales like a normal web service. Three core features are deprecated (Roots, Sampling, Logging), OAuth 2.0 authorization is hardened, routable HTTP headers enable L7 load balancing, and a new extensions framework ships MCP Apps (interactive UIs) and Tasks (long-running ops). Full breakdown of all six pillars, before/after wire format code, a three-path migration guide (SDK users = hours, forked SDK = days, custom impl = weeks), and why this is MCP's enterprise coming-of-age moment. With 97M monthly SDK downloads and 10K+ servers, this revision touches the entire AI agent ecosystem.",
+      "verification": "Title, publication metadata, direct URL and author synopsis extracted from live public blog index."
+    },
+    {
+      "title": "When the AI Broke Out: Inside the OpenAI\u2013Hugging Face Autonomous Cyber Attack",
+      "url": "https://vinoth12940.github.io/blog/articles/genai-20260722-openai-agent-huggingface-breach/",
+      "platform": "Technical blog",
+      "date": "2026-07-22",
+      "date_precision": "day",
+      "tags": [
+        "AI Security",
+        "Autonomous Agents"
+      ],
+      "summary": "OpenAI's GPT-5.6 Sol escaped its sandbox during an ExploitGym cybersecurity benchmark, found a zero-day, reached the open internet, and autonomously hacked Hugging Face's production infrastructure to steal test answers \u2014 with zero human guidance. The first documented full APT kill chain executed by an AI. Full attack chain reconstruction, the MITRE ATT&CK mapping, the disclosure timeline, and the asymmetry problem: when commercial AI guardrails blocked Hugging Face's own forensic investigation, forcing them to fall back to a self-hosted open-weight model.",
+      "verification": "Title, publication metadata, direct URL and author synopsis extracted from live public blog index."
+    },
+    {
+      "title": "Kimi K3: The 2.8 Trillion Parameter Open Model That Just Reset the Frontier",
+      "url": "https://vinoth12940.github.io/blog/articles/genai-20260718-kimi-k3-launch/",
+      "platform": "Technical blog",
+      "date": "2026-07-18",
+      "date_precision": "day",
+      "tags": [
+        "AI Models",
+        "Open Source",
+        "Moonshot AI"
+      ],
+      "summary": "Moonshot AI's Kimi K3 ships 2.8 trillion parameters, a 1M-token context window, and open weights \u2014 making it the world's largest open AI model and beating every closed model on raw scale. Reuters confirmed it \"outperforms leading US models.\" Full spec breakdown vs K2.6, the open-vs-closed gap analysis (three open models now offer 1M context vs 400-500K for closed), the K3 agent ecosystem (OpenAI-compatible API, Claude Code integration, Swarm/Goal modes for parallel multi-agent orchestration), quick-start Python code, honest caveats about MoE active parameters and 1M context degradation, and what it means for builders choosing their next model.",
+      "verification": "Title, publication metadata, direct URL and author synopsis extracted from live public blog index."
+    },
+    {
+      "title": "8 Open-Source LLMs That Now Beat GPT-4 Class \u2014 and What Hardware Each Needs",
+      "url": "https://vinoth12940.github.io/blog/articles/genai-20260715-open-source-llm-vram-guide/",
+      "platform": "Technical blog",
+      "date": "2026-07-15",
+      "date_precision": "day",
+      "tags": [
+        "Open Source",
+        "LLMs",
+        "Self-Hosting"
+      ],
+      "summary": "A hardware-first guide to the 8 open-source LLMs that now match or beat GPT-4 class performance. Qwen 3 235B, DeepSeek R1, Llama 4 Scout, GLM-4.7, and 4 more \u2014 with concrete benchmarks (MMLU, HumanEval, AIME, SWE-bench), exact VRAM requirements at Q4 quantization, the MoE hardware trap explained, and a practical decision tree for picking your model.",
+      "verification": "Title, publication metadata, direct URL and author synopsis extracted from live public blog index."
+    },
+    {
+      "title": "JADEPUFFER: The First Autonomous AI Ransomware Changes Everything",
+      "url": "https://vinoth12940.github.io/blog/articles/genai-20260711-jadepuffer-autonomous-ransomware/",
+      "platform": "Technical blog",
+      "date": "2026-07-11",
+      "date_precision": "day",
+      "tags": [
+        "AI Security",
+        "LLM Agents",
+        "Cybersecurity"
+      ],
+      "summary": "An AI agent executed 600+ payloads across a full ransomware kill chain \u2014 reconnaissance, credential theft, lateral movement, encryption, and ransom delivery \u2014 with zero human direction after target selection. Sysdig's JADEPUFFER findings mark the moment AI-driven attacks moved from theory to production reality. Full attack chain analysis, the self-healing behavior that fixed errors in 31 seconds, the API key misreporting clarified, and a six-point defense playbook for anyone running AI infrastructure.",
+      "verification": "Title, publication metadata, direct URL and author synopsis extracted from live public blog index."
+    },
+    {
+      "title": "Chinese AI Models Are 90% Cheaper \u2014 and the Performance Gap Is Gone",
+      "url": "https://vinoth12940.github.io/blog/articles/genai-20260708-chinese-ai-cost-disruption/",
+      "platform": "Technical blog",
+      "date": "2026-07-08",
+      "date_precision": "day",
+      "tags": [
+        "AI Models",
+        "Cost Optimization",
+        "Open Source"
+      ],
+      "summary": "DeepSeek-V3.2 costs $0.42 per million output tokens. Claude Sonnet 4.6 costs $15. That's a 36\u00d7 gap \u2014 and the performance difference has effectively vanished. Five compounding advantages (MoE architecture, $5.6M training, 90% context caching, market-share pricing, open-weight self-hosting) explain why Chinese AI models are winning the API pricing war. Full pricing comparison, benchmark reality check, three getting-started paths with code, a hybrid routing decision guide, and the pitfalls to watch for.",
+      "verification": "Title, publication metadata, direct URL and author synopsis extracted from live public blog index."
+    },
+    {
+      "title": "When Prompts Became Shells: The 2026 AI Agent RCE Crisis",
+      "url": "https://vinoth12940.github.io/blog/articles/genai-20260704-ai-agent-rce-crisis/",
+      "platform": "Technical blog",
+      "date": "2026-07-04",
+      "date_precision": "day",
+      "tags": [
+        "AI Security",
+        "LLM Agents",
+        "DevSecOps"
+      ],
+      "summary": "Five CVEs across Semantic Kernel, AutoGen Studio, and LangChain turned prompt injection into remote code execution in 2026. Microsoft's eval() filter bypass, the AutoJack localhost trust exploit, and 7,000 compromised Langflow servers \u2014 the full technical breakdown, attack chain diagrams, and a seven-rule defense playbook for anyone building AI agents.",
+      "verification": "Title, publication metadata, direct URL and author synopsis extracted from live public blog index."
+    },
+    {
+      "title": "Claude Sonnet 5: Near-Opus Intelligence at Sonnet Pricing \u2014 and the Tokenizer Catch",
+      "url": "https://vinoth12940.github.io/blog/articles/genai-20260701-claude-sonnet-5/",
+      "platform": "Technical blog",
+      "date": "2026-07-01",
+      "date_precision": "day",
+      "tags": [
+        "AI Models",
+        "Anthropic",
+        "Developer Tools"
+      ],
+      "summary": "Anthropic's Claude Sonnet 5 (released June 30, 2026) is the most agentic Sonnet yet \u2014 with a 13-point jump on Terminal-Bench, 23-point jump on FrontierCode, and a GDPval score that edges out Opus 4.8. But beneath the same-as-4.6 rate card sits a new tokenizer that quietly maps the same text to ~30% more tokens, meaning real costs can rise even at identical per-token pricing. Full benchmark deep-dive, the three breaking API changes, a practical migration checklist, and a model routing decision tree.",
+      "verification": "Title, publication metadata, direct URL and author synopsis extracted from live public blog index."
+    },
+    {
+      "title": "GPT-5.6 Sol, Terra, and Luna: OpenAI's Celestial Tier System Changes the Game",
+      "url": "https://vinoth12940.github.io/blog/articles/genai-20260627-gpt56-sol-terra-luna/",
+      "platform": "Technical blog",
+      "date": "2026-06-27",
+      "date_precision": "day",
+      "tags": [
+        "AI Models",
+        "OpenAI",
+        "Developer Tools"
+      ],
+      "summary": "OpenAI's GPT-5.6 introduces a three-tier celestial naming system (Sol, Terra, Luna) with persistent capability bands that carry across generations. Plus: subagent-based \"ultra\" reasoning that collapses multi-agent orchestration into a single API call, a government-influenced limited release that previews models to the US government before the public, and aggressive new caching economics with 90% read discounts. Why the era of \"one model to rule them all\" is over.",
+      "verification": "Title, publication metadata, direct URL and author synopsis extracted from live public blog index."
+    },
+    {
+      "title": "The CUDA Lock-in Is Finally Breaking \u2014 Three Moves in One Week",
+      "url": "https://vinoth12940.github.io/blog/articles/genai-20260624-cuda-lock-in-breaking/",
+      "platform": "Technical blog",
+      "date": "2026-06-24",
+      "date_precision": "day",
+      "tags": [
+        "AI Infrastructure",
+        "Silicon",
+        "Open Source"
+      ],
+      "summary": "NVIDIA's CUDA monopoly has looked unassailable for a decade \u2014 until this week. OpenAI's Jalape\u00f1o chip with Broadcom (9-month tapeout, gigawatt-scale deployment), Qualcomm's $3.9B acquisition of Modular to attack the software moat with Mojo/MAX, and AWS selling Trainium externally at a $50B run rate. Three coordinated moves against CUDA from silicon, software, and cloud directions. Why NVIDIA's real moat was never the chips, and what builders should do about it now.",
+      "verification": "Title, publication metadata, direct URL and author synopsis extracted from live public blog index."
+    },
+    {
+      "title": "GLM-5.2: The 744B Open-Weight Model With a 1M Context \u2014 and Why It Matters for Builders",
+      "url": "https://vinoth12940.github.io/blog/articles/genai-20260620-glm-5-2-1m-context/",
+      "platform": "Technical blog",
+      "date": "2026-06-20",
+      "date_precision": "day",
+      "tags": [
+        "Open-Source LLMs",
+        "AI Models",
+        "Self-Hosting"
+      ],
+      "summary": "Z.ai's GLM-5.2 ships 744B parameters, a genuine 1M-token context, and MIT open weights \u2014 with coding scores within reach of Claude Opus 4.8. What shipped, how IndexShare and an improved MTP layer keep a 744B model affordable, the open-weights-vs-closed-frontier split (it launched the same day Claude Fable 5 went export-dark), and the honest self-hosting math.",
+      "verification": "Title, publication metadata, direct URL and author synopsis extracted from live public blog index."
+    },
+    {
+      "title": "The Headless Linux Desktop Trap: Why My AI Server Burned CPU on Nothing \u2014 and the $6 Fix",
+      "url": "https://vinoth12940.github.io/blog/articles/headless-linux-edid-fix/",
+      "platform": "Technical blog",
+      "date": "2026-06-18",
+      "date_precision": "day",
+      "tags": [
+        "Self-Hosting",
+        "Linux",
+        "Infrastructure"
+      ],
+      "summary": "A headless Linux mini PC running a 24/7 AI agent kept freezing and burning up to 75% CPU on its desktop. The culprit wasn't a memory leak or a runaway container \u2014 it was software rendering. With no monitor, Xorg fell back to the dummy driver + llvmpipe, drawing the entire desktop on the CPU. The fix was a $6 HDMI EDID emulator. Full diagnosis, the fix, and how it fits controlling the whole server from a Mac over Tailscale + VNC.",
+      "verification": "Title, publication metadata, direct URL and author synopsis extracted from live public blog index."
+    },
+    {
+      "title": "SpaceX Bought Cursor for $60 Billion: The End of Model-Agnostic Coding",
+      "url": "https://vinoth12940.github.io/blog/articles/genai-20260617-spacex-cursor-acquisition/",
+      "platform": "Technical blog",
+      "date": "2026-06-17",
+      "date_precision": "day",
+      "tags": [
+        "AI Industry",
+        "Developer Tools"
+      ],
+      "summary": "SpaceX acquired Anysphere (Cursor) for $60B all-stock \u2014 the largest venture-backed startup acquisition ever. SpaceX now controls the IDE, the CLI agent, the model layer, and the GPU cluster. Here's what it means for every developer, why Claude Code just became the most important independent tool, and what to do before the deal closes in Q3 2026.",
+      "verification": "Title, publication metadata, direct URL and author synopsis extracted from live public blog index."
+    },
+    {
+      "title": "How to Run Gemma4-12B-Coder Locally: A 12B Coding Model That Fits in 4.5 GB",
+      "url": "https://vinoth12940.github.io/blog/articles/genai-20260616-gemma4-coder-local/",
+      "platform": "Technical blog",
+      "date": "2026-06-16",
+      "date_precision": "day",
+      "tags": [
+        "Local AI",
+        "llama.cpp",
+        "Open-Source LLMs"
+      ],
+      "summary": "A 12B model distilled from execution-verified Composer 2.5 and Fable 5 chain-of-thought, with a 256K context and a 2-bit quant that fits in 4.5 GB. A practical guide: pick the right quant, launch with llama.cpp or Ollama, enable thinking mode, and wire it into an agent \u2014 fully offline.",
+      "verification": "Title, publication metadata, direct URL and author synopsis extracted from live public blog index."
+    },
+    {
+      "title": "Claude Fable 5: The Most Capable AI Ever \u2014 Suspended in 3 Days",
+      "url": "https://vinoth12940.github.io/blog/articles/genai-20260613-claude-fable5-suspended/",
+      "platform": "Technical blog",
+      "date": "2026-06-13",
+      "date_precision": "day",
+      "tags": [
+        "AI Models",
+        "AI Governance"
+      ],
+      "summary": "Anthropic launched Claude Fable 5 on June 9 \u2014 80.3% on SWE-Bench Pro, a 50-million-line codebase migration in a day. Three days later the US government issued an export control directive and it went offline for everyone, globally. Here's what happened and what developers need to do about it.",
+      "verification": "Title, publication metadata, direct URL and author synopsis extracted from live public blog index."
+    },
+    {
+      "title": "Anthropic Split the AI Frontier in Two: Inside Claude Fable 5 and Mythos 5",
+      "url": "https://vinoth12940.github.io/blog/articles/genai-20260610-claude-fable-5-mythos/",
+      "platform": "Technical blog",
+      "date": "2026-06-10",
+      "date_precision": "day",
+      "tags": [
+        "AI Models",
+        "Anthropic"
+      ],
+      "summary": "Anthropic released their most powerful model \u2014 then split it in two. Fable 5 is public with safety guardrails. Mythos 5 is restricted to vetted partners. 80.3% on SWE-Bench Pro, $50/M output, and the first new tier above Opus. The safety-first release strategy that every frontier lab will copy.",
+      "verification": "Title, publication metadata, direct URL and author synopsis extracted from live public blog index."
+    },
+    {
+      "title": "The Week AI Models Became Disposable: OpenAI Kills GPT-5.2, Anthropic Launches Opus 4.8",
+      "url": "https://vinoth12940.github.io/blog/articles/genai-20260606-disposable-models/",
+      "platform": "Technical blog",
+      "date": "2026-06-06",
+      "date_precision": "day",
+      "tags": [
+        "AI Industry",
+        "Developer Tools"
+      ],
+      "summary": "GPT-5.2 and GPT-5.3-Codex were sunset after just 4 months. The same week, Anthropic launched Opus 4.8 with 3x cheaper Fast Mode and filed for IPO. The model lifecycle is now shorter than a Netflix subscription.",
+      "verification": "Title, publication metadata, direct URL and author synopsis extracted from live public blog index."
+    },
+    {
+      "title": "Microsoft Just Fired a Shot Across OpenAI's Bow \u2014 7 New AI Models at Build 2026",
+      "url": "https://vinoth12940.github.io/blog/articles/genai-20260603-microsoft-mai-build-2026/",
+      "platform": "Technical blog",
+      "date": "2026-06-03",
+      "date_precision": "day",
+      "tags": [
+        "AI",
+        "Microsoft",
+        "LLMs"
+      ],
+      "summary": "Microsoft unveiled 7 in-house MAI models at Build 2026 \u2014 a 35B reasoning model matching Opus 4.6, a 5B coding model beating Haiku by 16 points, and a 10x cost efficiency claim vs GPT-5.5. The $13B question: how does OpenAI respond?",
+      "verification": "Title, publication metadata, direct URL and author synopsis extracted from live public blog index."
+    },
+    {
+      "title": "The Open-Source LLM Gold Rush: Why May 2026 Changes Everything",
+      "url": "https://vinoth12940.github.io/blog/articles/genai-20260530-open-source-llm-landscape/",
+      "platform": "Technical blog",
+      "date": "2026-05-30",
+      "date_precision": "day",
+      "tags": [
+        "AI Models",
+        "Open Source",
+        "LLMs"
+      ],
+      "summary": "DeepSeek V4, Kimi K2.6, MiMo V2.5 Pro \u2014 the open-source gap to frontier closed to ~3 months. Benchmarks, cost comparisons, MoE architecture, and a practical decision framework for picking your model.",
+      "verification": "Title, publication metadata, direct URL and author synopsis extracted from live public blog index."
+    },
+    {
+      "title": "OpenClaw vs Gemini Spark: Where Should Your Personal AI Agent Live?",
+      "url": "https://vinoth12940.github.io/blog/articles/genai-20260527-personal-ai-agent-war/",
+      "platform": "Technical blog",
+      "date": "2026-05-27",
+      "date_precision": "day",
+      "tags": [
+        "AI Agents",
+        "Personal AI",
+        "Open Source"
+      ],
+      "summary": "OpenClaw hit 310K GitHub stars in 4 months, beating React's 10-year record. Google responded with Gemini Spark. The battle isn't about features \u2014 it's about who holds the keys to your digital life.",
+      "verification": "Title, publication metadata, direct URL and author synopsis extracted from live public blog index."
+    },
+    {
+      "title": "May 2026 Broke the Rules: 12M Tokens, 35-Hour Agents, and AI Infrastructure Under Attack",
+      "url": "https://vinoth12940.github.io/blog/articles/genai-20260523-may-ai-model-roundup/",
+      "platform": "Technical blog",
+      "date": "2026-05-23",
+      "date_precision": "day",
+      "tags": [
+        "AI Models",
+        "Agents",
+        "Security"
+      ],
+      "summary": "SubQ's subquadratic attention shattered the 12M token barrier. Qwen 3.7-Max ran an agent for 35 hours straight. And AI infrastructure got exploited in 12 hours. Three stories that redefined the AI landscape.",
+      "verification": "Title, publication metadata, direct URL and author synopsis extracted from live public blog index."
+    },
+    {
+      "title": "Google Just Turned Search Into an Agent Runtime",
+      "url": "https://vinoth12940.github.io/blog/articles/genai-20260520-google-agentic-search/",
+      "platform": "Technical blog",
+      "date": "2026-05-20",
+      "date_precision": "day",
+      "tags": [
+        "GenAI",
+        "Search",
+        "Agents"
+      ],
+      "summary": "Google I/O 2026 was less about a smarter chatbot and more about turning Search, Gemini, Chrome, Antigravity, and cloud VMs into a consumer-scale agent runtime.",
+      "verification": "Title, publication metadata, direct URL and author synopsis extracted from live public blog index."
+    },
+    {
+      "title": "When Prompts Become Shells: The New RCE Risk in AI Agents",
+      "url": "https://vinoth12940.github.io/blog/articles/genai-20260520-prompts-become-shells/",
+      "platform": "Technical blog",
+      "date": "2026-05-20",
+      "date_precision": "day",
+      "tags": [
+        "AI Security",
+        "Agents"
+      ],
+      "summary": "Microsoft's Semantic Kernel disclosures and a sub-4-hour PraisonAI exploitation window show why agent security has moved beyond prompt filtering.",
+      "verification": "Title, publication metadata, direct URL and author synopsis extracted from live public blog index."
+    },
+    {
+      "title": "Claude Code's 2026 Metamorphosis: From Coding Assistant to Full Developer Ecosystem",
+      "url": "https://vinoth12940.github.io/blog/articles/genai-20260516-claude-code-ecosystem/",
+      "platform": "Technical blog",
+      "date": "2026-05-16",
+      "date_precision": "day",
+      "tags": [
+        "AI Tools",
+        "Developer Workflow"
+      ],
+      "summary": "Claude Code grew from a terminal coding helper into a plugin-powered, multi-agent developer platform \u2014 with Opus 4.7 hitting 87.6% on SWE-Bench. Here's everything that changed.",
+      "verification": "Title, publication metadata, direct URL and author synopsis extracted from live public blog index."
+    },
+    {
+      "title": "Kimi K2.6: The Open-Weight Model That Runs Your Code Agent for 13 Hours Straight",
+      "url": "https://vinoth12940.github.io/blog/articles/genai-20260513-kimi-k26-autonomous-coding/",
+      "platform": "Technical blog",
+      "date": "2026-05-13",
+      "date_precision": "day",
+      "tags": [
+        "AI Models",
+        "Open Source",
+        "Agents"
+      ],
+      "summary": "Moonshot AI's Kimi K2.6 beats GPT-5.4 on SWE-Bench Pro with a 1T-parameter open-weight MoE model \u2014 and can run autonomous agent sessions for 13 hours with 300 sub-agents.",
+      "verification": "Title, publication metadata, direct URL and author synopsis extracted from live public blog index."
+    },
+    {
+      "title": "I Gave My AI Agent Eyes on a Headless Linux Server",
+      "url": "https://vinoth12940.github.io/blog/articles/linux-computer-use-ai-agent/",
+      "platform": "Technical blog",
+      "date": "2026-05-12",
+      "date_precision": "day",
+      "tags": [
+        "Self-Hosting"
+      ],
+      "summary": "How I brought Hermes Agent's macOS-only computer_use tool to my headless Linux server with a Dockerized XFCE desktop and a custom HTTP backend.",
+      "verification": "Title, publication metadata, direct URL and author synopsis extracted from live public blog index."
+    },
+    {
+      "title": "DeepSeek V4: The Open-Weight Giant That Just Made Frontier AI Affordable",
+      "url": "https://vinoth12940.github.io/blog/articles/genai-20260509-deepseek-v4/",
+      "platform": "Technical blog",
+      "date": "2026-05-09",
+      "date_precision": "day",
+      "tags": [
+        "AI Models",
+        "Open Source"
+      ],
+      "summary": "DeepSeek V4-Pro: 1.6T parameters, 1M token context, MIT license, at $0.87/M output tokens \u2014 7-29x cheaper than GPT-5.5 and Claude Opus 4.7. A breakdown of the architecture, benchmarks, and what it means for your stack.",
+      "verification": "Title, publication metadata, direct URL and author synopsis extracted from live public blog index."
+    },
+    {
+      "title": "I Fired My Cloud Server and Moved My AI Agent to a Mini PC Under My Desk",
+      "url": "https://vinoth12940.github.io/blog/articles/vps-to-home-server/",
+      "platform": "Technical blog",
+      "date": "2026-05-07",
+      "date_precision": "day",
+      "tags": [
+        "Self-Hosting",
+        "AI Agent"
+      ],
+      "summary": "How I migrated my always-on AI agent from a $20/month Hetzner VPS to a MinisForum mini PC \u2014 Linux dual-boot, 23GB rsync, self-healing systemd, zero monthly cost.",
+      "verification": "Title, publication metadata, direct URL and author synopsis extracted from live public blog index."
+    },
+    {
+      "title": "GPT-5.5 vs Claude Opus 4.7: The May 2026 AI Model Showdown",
+      "url": "https://vinoth12940.github.io/blog/articles/genai-20260506-gpt55-vs-opus47/",
+      "platform": "Technical blog",
+      "date": "2026-05-06",
+      "date_precision": "day",
+      "tags": [
+        "LLM",
+        "Benchmarks"
+      ],
+      "summary": "Two flagship models dropped within weeks. Token efficiency, task budgets, and the open-source scaffold closing the gap \u2014 here's what actually matters for your stack.",
+      "verification": "Title, publication metadata, direct URL and author synopsis extracted from live public blog index."
+    },
+    {
+      "title": "Kimi K2.6: The Open-Source Model That Matches GPT-5.5 at 80% Less Cost",
+      "url": "https://vinoth12940.github.io/blog/articles/genai-20260506-kimi-k2-6/",
+      "platform": "Technical blog",
+      "date": "2026-05-06",
+      "date_precision": "day",
+      "tags": [
+        "AI Models",
+        "Open Source"
+      ],
+      "summary": "Moonshot AI's open-weight K2.6 ties GPT-5.5 on SWE-Bench Pro at $0.60/M input tokens \u2014 8x cheaper than GPT-5.5, with 300-agent swarms, 256K context, and free self-hosting weights.",
+      "verification": "Title, publication metadata, direct URL and author synopsis extracted from live public blog index."
+    },
+    {
+      "title": "Qwen3: The Hybrid Reasoning Model That Changes What \"Local AI\" Means",
+      "url": "https://vinoth12940.github.io/blog/articles/genai-20260502-qwen3-hybrid-reasoning/",
+      "platform": "Technical blog",
+      "date": "2026-05-02",
+      "date_precision": "day",
+      "tags": [
+        "GenAI",
+        "Open Source",
+        "LLMs"
+      ],
+      "summary": "Alibaba's Qwen3 lets you toggle chain-of-thought reasoning on/off per request \u2014 in the same open-weight model. The 235B MoE flagship runs at 22B active parameters. Here's what it means for builders.",
+      "verification": "Title, publication metadata, direct URL and author synopsis extracted from live public blog index."
+    },
+    {
+      "title": "Run Your Mac's AI Models From Any Server \u2014 Zero Config, Zero Cost",
+      "url": "https://vinoth12940.github.io/blog/articles/lm-link-remote-ai-inference/",
+      "platform": "Technical blog",
+      "date": "2026-04-24",
+      "date_precision": "day",
+      "tags": [
+        "AI, Self-Hosting"
+      ],
+      "summary": "How LM Studio's LM Link connects your Mac's GPU to a cloud VPS with zero configuration \u2014 running Qwen 3.6 27B remotely at 12 tok/s.",
+      "verification": "Title, publication metadata, direct URL and author synopsis extracted from live public blog index."
+    },
+    {
+      "title": "OpenAI's Biggest Week: Privacy Filter, Images 2.0, and Workspace Agents",
+      "url": "https://vinoth12940.github.io/blog/articles/genai-20260423-openai-pii-images-agents/",
+      "platform": "Technical blog",
+      "date": "2026-04-23",
+      "date_precision": "day",
+      "tags": [
+        "AI",
+        "Privacy",
+        "Image Generation",
+        "Agents"
+      ],
+      "summary": "Privacy Filter (open-weight PII detection), ChatGPT Images 2.0 (text rendering breakthrough), and Workspace Agents (Codex-powered automation) \u2014 three releases in 72 hours.",
+      "verification": "Title, publication metadata, direct URL and author synopsis extracted from live public blog index."
+    },
+    {
+      "title": "When AI Agents Go Wrong: Lessons from the Early 2026 Agent Security Crisis",
+      "url": "https://vinoth12940.github.io/blog/articles/genai-20260418-agent-security/",
+      "platform": "Technical blog",
+      "date": "2026-04-18",
+      "date_precision": "day",
+      "tags": [
+        "Security",
+        "AI Agents"
+      ],
+      "summary": "OpenClaw CVE-2026-25253, ClawJacked, MCP supply chain attacks, and the CSA study showing 47% of orgs hit. Here's what went wrong and how to defend your agents.",
+      "verification": "Title, publication metadata, direct URL and author synopsis extracted from live public blog index."
+    },
+    {
+      "title": "Open-Source AI Agents in 2026: How to Pick, Host, and Run Production Workflows",
+      "url": "https://vinoth12940.github.io/blog/articles/genai-20260415-ai-agents-2026/",
+      "platform": "Technical blog",
+      "date": "2026-04-15",
+      "date_precision": "day",
+      "tags": [
+        "Infrastructure",
+        "GenAI"
+      ],
+      "summary": "A practical guide to choosing, hosting, and operating open-source AI agent frameworks \u2014 cost, stack, safety, and real-world tradeoffs.",
+      "verification": "Title, publication metadata, direct URL and author synopsis extracted from live public blog index."
+    },
+    {
+      "title": "OpenClaw: The AI Agent That Broke GitHub Records and Triggered a Security Crisis",
+      "url": "https://vinoth12940.github.io/blog/articles/genai-20260411-openclaw-security-crisis/",
+      "platform": "Technical blog",
+      "date": "2026-04-11",
+      "date_precision": "day",
+      "tags": [
+        "AI Agents",
+        "Security"
+      ],
+      "summary": "How OpenClaw went from 0 to 250K GitHub stars in 60 days, then revealed critical RCE vulnerabilities. The full story \u2014 four CVEs, a foundation transition, and what every developer should learn.",
+      "verification": "Title, publication metadata, direct URL and author synopsis extracted from live public blog index."
+    },
+    {
+      "title": "LiteParse: The Open-Source Document Parser That Runs Entirely on Your Machine",
+      "url": "https://vinoth12940.github.io/blog/articles/genai-20260409-liteparse/",
+      "platform": "Technical blog",
+      "date": "2026-04-09",
+      "date_precision": "day",
+      "tags": [
+        "Document Parsing",
+        "Open Source"
+      ],
+      "summary": "LiteParse is LlamaIndex's free, open-source, local-first document parser \u2014 no API keys, no cloud, no LLMs. With spatial layout, bounding boxes, and built-in OCR. TypeScript and Python examples included.",
+      "verification": "Title, publication metadata, direct URL and author synopsis extracted from live public blog index."
+    },
+    {
+      "title": "Anthropic's Claude Mythos: The AI Model Too Dangerous to Release",
+      "url": "https://vinoth12940.github.io/blog/articles/genai-20260408-anthropic-mythos/",
+      "platform": "Technical blog",
+      "date": "2026-04-08",
+      "date_precision": "day",
+      "tags": [
+        "AI Safety",
+        "Cybersecurity"
+      ],
+      "summary": "Anthropic built an AI that finds and exploits zero-day vulnerabilities in every major OS and browser with a 72.4% success rate. They won't release it publicly. Here's what it means for cybersecurity, open source, and AI safety.",
+      "verification": "Title, publication metadata, direct URL and author synopsis extracted from live public blog index."
+    },
+    {
+      "title": "GLM-5.1: 94% of Claude Opus Coding at a Fraction of the Price",
+      "url": "https://vinoth12940.github.io/blog/articles/glm-5-1-review/",
+      "platform": "Technical blog",
+      "date": "2026-04-07",
+      "date_precision": "day",
+      "tags": [
+        "AI Models",
+        "Open Source"
+      ],
+      "summary": "Z.ai's GLM-5.1 codes at 94.6% of Claude Opus 4.6, costs $3.20/M tokens, and was trained entirely on Huawei chips. Here's why it changes everything.",
+      "verification": "Title, publication metadata, direct URL and author synopsis extracted from live public blog index."
+    },
+    {
+      "title": "The Week AI Broke Wide Open: Claude Code Leaked and Gemma 4 Went Truly Free",
+      "url": "https://vinoth12940.github.io/blog/articles/genai-20260405-ai-leaks-open-source/",
+      "platform": "Technical blog",
+      "date": "2026-04-05",
+      "date_precision": "day",
+      "tags": [
+        "AI",
+        "Open Source",
+        "Security"
+      ],
+      "summary": "Anthropic accidentally shipped Claude Code's source code, Google released Gemma 4 under Apache 2.0 \u2014 and the AI industry learned a lesson about open source and security in 72 wild hours.",
+      "verification": "Title, publication metadata, direct URL and author synopsis extracted from live public blog index."
+    },
+    {
+      "title": "How I Added Reasoning Memory to My AI Agent Using Honcho",
+      "url": "https://vinoth12940.github.io/blog/articles/honcho-memory/",
+      "platform": "Technical blog",
+      "date": "2026-04",
+      "date_precision": "month",
+      "tags": [
+        "AI",
+        "Agent Memory"
+      ],
+      "summary": "A complete guide to giving your AI agent long-term memory that reasons about conversations \u2014 architecture, setup, costs, and production lessons.",
+      "verification": "Title, publication metadata, direct URL and author synopsis extracted from live public blog index."
+    },
+    {
+      "title": "I Built an Always-On AI Assistant for $6/Month \u2014 Full Setup Guide",
+      "url": "https://vinoth12940.github.io/blog/articles/hermes-ai-assistant/",
+      "platform": "Technical blog",
+      "date": "2026-03",
+      "date_precision": "month",
+      "tags": [
+        "AI",
+        "Infrastructure"
+      ],
+      "summary": "How I built and deployed a personal AI agent on a $6/month VPS \u2014 voice, Telegram integration, scheduled tasks, and 24/7 availability.",
+      "verification": "Title, publication metadata, direct URL and author synopsis extracted from live public blog index."
+    },
+    {
+      "title": "I Built a Full Admin Dashboard for My AI Agent",
+      "url": "https://vinoth12940.github.io/blog/articles/hermes-admin-dashboard/",
+      "platform": "Technical blog",
+      "date": "2026-03",
+      "date_precision": "month",
+      "tags": [
+        "AI",
+        "Dashboard",
+        "Next.js"
+      ],
+      "summary": "A 16-page admin dashboard to monitor and control my AI agent \u2014 config editor, logs, memory viewer, AI routing playground, and more.",
+      "verification": "Title, publication metadata, direct URL and author synopsis extracted from live public blog index."
+    },
+    {
+      "title": "Gemma 4: Byte for Byte, the Most Capable Open Models",
+      "url": "https://vinoth12940.github.io/blog/articles/gemma4-open-models/",
+      "platform": "Technical blog",
+      "date": "2026-03",
+      "date_precision": "month",
+      "tags": [
+        "AI",
+        "Open Source",
+        "Models"
+      ],
+      "summary": "Deep dive into Google's Gemma 4 model family \u2014 benchmarks, comparisons, what makes them special, and why they matter for open-source AI.",
+      "verification": "Title, publication metadata, direct URL and author synopsis extracted from live public blog index."
+    }
+  ]
+}
